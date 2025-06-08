@@ -1,12 +1,12 @@
 {% extends "base.html" %} {% block content %}
 
-<div class="flex flex-col gap-3">
-  <h1 class="text-3xl font-semibold text-headings">
+<div class="flex flex-col gap-3 text-content-primary dark:text-content-primary-dark">
+  <h1 class="text-3xl font-semibold">
     {{ macros::newline_break(str=page.title) }}
   </h1>
 
   {% if page.date %}
-  <h2 class="text-xl text-headings">
+  <h2 class="text-xl">
     {% if page.authors %} {{ page.authors | join(sep=", ") }} • {% endif %} {{
     page.date | date(format="%A, %B %-d, %Y, %-I:%M %p") |
     trim_end_matches(pat=", 12:00 AM") }}
@@ -22,7 +22,7 @@
 
 {% block before_page_content %}{% endblock %}
 
-<main id="content" class="prose">{{ page.content | safe }}</main>
+<main id="content" class="prose dark:prose-invert">{{ page.content | safe }}</main>
 
 {% if page.toc %}
 <div class="hidden xl:block absolute -right-8 translate-x-full h-full max-w-48">

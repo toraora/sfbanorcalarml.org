@@ -7,22 +7,22 @@
   href="{{ href }}">
   <div class="flex-1 flex flex-col gap-2">
     {% if label or icon_class %}
-    <p class="uppercase text-xs text-headings flex gap-2 items-center">
+    <p class="uppercase text-xs flex gap-2 items-center text-content-primary dark:text-content-primary-dark">
       {% if icon_class %}<i class="bi {{ icon_class }}"></i>{% endif %}
       {% if label %}<span>{{ label }}</span>{% endif %}
     </p>
     {% endif %}
-    <p class="text-base font-medium text-headings">
+    <p class="text-base font-medium text-content-primary dark:text-content-primary-dark">
       {{ title | split(pat="\n") | join(sep=" • ") }}
     </p>
     {% if content %}
-    <p class="text-sm text-prose">
+    <p class="text-sm text-content-secondary dark:text-content-secondary-dark">
       {{ content | striptags | truncate(length=200) }}
     </p>
     {% endif %}
 
     {% if date %}
-    <p class="text-xs text-prose">
+    <p class="text-xs text-content-tertiary dark:text-content-tertiary-dark">
       {{ date | date(format="%A, %B %-d, %Y") | trim_end_matches(pat=", 12:00 AM") }}
     </p>
     {% endif %}
@@ -66,7 +66,7 @@
   {{ self::post_notification(
     title=news_post.title,
     href=news_post.permalink,
-    class="bg-gray-500 hover:bg-gray-600 border-gray-900",
+    class="bg-background-secondary dark:bg-background-secondary-dark hover:bg-background-tertiary dark:hover:bg-background-tertiary-dark border-content-tertiary dark:border-content-tertiary-dark",
     icon_class="bi-megaphone-fill",
     label="News",
   ) }}
@@ -75,13 +75,13 @@
 
 {# Rest of content (rendered from markdown) #}
 
-<div class="prose">
+<div class="prose dark:prose-invert">
   {{ section.content | safe }}
 </div>
 
 {# Recent news section #}
 
-<h2 class="font-bold text-xl md:text-3xl text-headings">Recent News</h2>
+<h2 class="font-bold text-xl md:text-3xl text-content-primary dark:text-content-primary-dark">Recent News</h2>
 <div class="flex flex-col gap-4">
   {% set news_section = get_section(path="news/season-2025/_index.md") %}
   {% set news_posts = news_section.pages | slice(end=5) %}
@@ -89,7 +89,7 @@
   {{ self::post_notification(
     title=news_post.title,
     href=news_post.permalink,
-    class="bg-bgLight hover:bg-gray-600 border-gray-900",
+    class="bg-background-primary dark:bg-background-primary-dark hover:bg-background-secondary dark:hover:bg-background-secondary-dark border-content-tertiary dark:border-content-tertiary-dark",
     content=news_post.content,
     date=news_post.date,
   ) }}

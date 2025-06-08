@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<html lang="en" class="dark">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -52,32 +52,61 @@
       function thing() {
         document.getElementById("navbar").classList.toggle("open");
       }
+
+      // Theme toggle functionality
+      function initTheme() {
+        // Check for saved theme preference or use system preference
+        const savedTheme = localStorage.getItem('theme');
+        const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+        
+        // Apply the theme
+        if (theme === 'dark') {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      }
+
+      function toggleTheme() {
+        const isDark = document.documentElement.classList.contains('dark');
+        if (isDark) {
+          document.documentElement.classList.remove('dark');
+          localStorage.setItem('theme', 'light');
+        } else {
+          document.documentElement.classList.add('dark');
+          localStorage.setItem('theme', 'dark');
+        }
+      }
+
+      // Initialize theme on page load
+      document.addEventListener('DOMContentLoaded', initTheme);
     </script>
   </head>
 
-  <body class="bg-bg min-h-screen">
+  <body class="bg-background-primary dark:bg-background-primary-dark min-h-screen">
     <div
       class="max-w-3xl min-h-screen p-4 md:p-8 mx-auto flex flex-col gap-4 md:gap-8"
     >
       {% block header %}
-      <header class="flex flex-col gap-4 text-center">
-        <p class="text-2xl font-bold text-headings">SFBA / NorCal ARML</p>
+      <header class="flex flex-col gap-4 text-center text-content-primary dark:text-content-primary-dark">
+        <p class="text-2xl font-bold">SFBA / NorCal ARML</p>
 
         <nav
           id="navbar"
-          class="[&.open>a.nav-hidden]:block [&>a.nav-hidden]:hidden flex flex-col md:flex-row md:mx-auto gap-4 items-stretch"
+          class="[&.open>a.nav-hidden]:block [&>a.nav-hidden]:hidden flex flex-col md:flex-row md:mx-auto gap-4 items-stretch text-content-secondary dark:text-content-secondary-dark"
         >
           {{ macros::nav_link(path="@/_index.md", label="Home") }}
           {{ macros::nav_link(path="@/about.md", label="About") }}
-          {{ macros::nav_link(path="@/news/season-2025/_index.md", label="News") }}
+          {{ macros::nav_link(path="@/news/season-2025/_index.md", label="News", prefixmatch="/news/") }}
           {{ macros::nav_link(path="@/join.md", label="Joining") }}
           {{ macros::nav_link(path="@/logistics.md", label="Logistics") }}
           {{ macros::nav_link(path="@/faq.md", label="FAQ") }}
-          {# {{ macros::nav_link(path="@/policies.md", label="Policies") }} #}
+          {{ macros::nav_link(path="@/policies.md", label="Policies", activeonly=true) }}
           {{ macros::nav_link(path="@/partners.md", label="Partners", activeonly=true) }}
           {{ macros::nav_link(path="@/practices.md", label="Practices") }}
           {{ macros::nav_link(path="@/sac.md", label="Sacramento") }}
-          {# {{ macros::nav_link(path="@/donate.md", label="Donate") }} #}
+          {{ macros::nav_link(path="@/donate.md", label="Donate", activeonly=true) }}
         </nav>
       </header>
       {% endblock %}
@@ -95,15 +124,15 @@
 
       {% block footer %}
       <div
-        class="flex flex-col items-center justify-between md:items-start text-center md:flex-row gap-4 mb-12 text-prose"
+        class="flex flex-col items-center justify-between md:items-start text-center md:flex-row gap-4 mb-12 text-content-secondary dark:text-content-secondary-dark"
       >
         <span>
           &copy; 2025 Lemniscate Education
         </span>
 
-        <p>
-          <a href="https://discord.gg/XsqPrShvyR">
-            <img src="/assets/discord.svg" alt="Discord" width="20" height="20" class="inline-block">
+        <p class="flex items-center gap-2">
+          <a href="https://discord.gg/XsqPrShvyR" class="hover:opacity-80 transition-opacity">
+            <img src="/assets/discord.svg" alt="Discord" width="20" height="20" class="inline-block dark:invert-0 invert">
           </a>
           /
           <a href="/partners" class="underline">Partners</a>
@@ -111,6 +140,11 @@
           <a href="/donate" class="underline">Donate</a>
           /
           <a href="/policies" class="underline">Policies</a>
+          /
+          <button onclick="toggleTheme()" class="hover:opacity-80 transition-opacity" title="Toggle dark mode">
+            <i class="bi bi-moon-fill block dark:hidden text-lg"></i>
+            <i class="bi bi-sun-fill hidden dark:block text-lg"></i>
+          </button>
         </p>
       </div>
       {% endblock %}

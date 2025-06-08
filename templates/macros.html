@@ -1,6 +1,7 @@
-{% macro nav_link(path, label, activeonly=false) %}
+{% macro nav_link(path, label, activeonly=false, prefixmatch="") %}
 {% set href = get_url(path=path) %}
 {% set active = current_url | default(value='') == href %}
+{% set active = active or (prefixmatch | length > 0 and current_path | default(value='') | truncate(length=prefixmatch | length, end='') == prefixmatch) %}
 
 {# Desktop version #}
 {% if not activeonly %}
@@ -8,7 +9,7 @@
 <div class="hidden md:block relative">
   <span class="invisible font-semibold">{{ label }}</span>
   <a href="{{ href }}"
-    class="absolute inset-0 text-center text-links {% if active %} !text-headings font-semibold {% endif %}">
+    class="absolute inset-0 text-center {% if active %} font-semibold {% endif %}">
     {{ label }}
   </a>
 </div>
@@ -16,12 +17,12 @@
 
 {# Mobile version #}
 {% if active %}
-<button class="md:hidden order-1 font-semibold border py-2 px-3 rounded-xl relative text-headings" onclick="thing()">
+<button class="md:hidden order-1 font-semibold border py-2 px-3 rounded-xl relative border-content-tertiary dark:border-content-tertiary-dark" onclick="thing()">
   {{ label }}
   <i class="bi bi-chevron-down [.open_&]:-scale-y-100 transition-transform absolute right-4"></i>
 </button>
 {% elif not activeonly %}
-<a href="{{ href }}" class="py-2 px-3 bg-medium text-prose rounded-xl nav-hidden order-2">
+<a href="{{ href }}" class="py-1 px-3 bg-medium rounded-xl nav-hidden order-2">
   {{ label }}
 </a>
 {% endif %}
@@ -44,7 +45,7 @@
   {% for heading in toc %}
   <li class="group overflow-hidden whitespace-nowrap text-ellipsis">
     <a
-      class="text-gray-500 text-sm  hover:text-gray-800 hover:font-medium group-[.active]:text-black group-[.active]:font-semibold"
+      class="text-content-tertiary dark:text-content-tertiary-dark text-sm hover:text-content-secondary dark:hover:text-content-secondary-dark hover:font-medium group-[.active]:text-content-primary dark:group-[.active]:text-content-primary-dark group-[.active]:font-semibold"
       href="{{ heading.permalink | safe }}"
     >
       {{ heading.title }}
