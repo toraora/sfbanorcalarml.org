@@ -13,7 +13,7 @@
     {
       packages = forAllSystems (pkgs: rec {
         default = pkgs.callPackage ./. { };
-        for-production = default.override { baseUrl = "https://sfbanorcalarml.org/"; };
+        for-production = default.override { baseUrl = "https://arml.tora.dev/"; };
       });
 
       apps = forAllSystems (pkgs: {

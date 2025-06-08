@@ -64,7 +64,7 @@ our teams and between students from other regions.
 
 **A few reminders**
 
-All team information and announcements are posted at http://sfbanorcalarml.org/.
+All team information and announcements are posted on our [homepage](/).
 If you have recently joined the team, you can go there to see an archive of old
 emails and announcements. 
 

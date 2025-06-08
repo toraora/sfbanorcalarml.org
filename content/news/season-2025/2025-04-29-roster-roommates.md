@@ -28,7 +28,7 @@ other.
 We will hold one final elite team tryout online on ContestDojo on May 3. The
 Bay Area teams will hold practices on May 4, 10, and 17, while Sacramento will
 continue to hold weekly practices on Saturdays. The details are available at
-https://sfbanorcalarml.org/practices/.
+our [practices page](/practices).
 
 In the coming week, we will also reach out regarding transportation.  By
 default, everyone's transportation will be a bus seat provided by the team. If
@@ -49,7 +49,7 @@ to us at info@sfbanorcalarml.org and we may be able to help.
 
 ### A few reminders
 
-All team information and announcements are posted at http://sfbanorcalarml.org/.
+All team information and announcements are posted on our [homepage](/).
 If you have recently joined the team, you can go there to see an archive of old
 emails and announcements. 
 

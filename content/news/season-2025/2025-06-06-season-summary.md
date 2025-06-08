@@ -32,8 +32,8 @@ Nathan took many photos at ARML, and they can be found at the following link:
 Our ARML team is an all-volunteer effort. Your registration fees go directly
 toward the contest fee, transportation, dorm rooms, practices, and the team
 t-shirt, and are barely sufficient to cover costs. We'd love to be able to do
-even more next year, and if you'd like to give to our team, you may do so at the
-following link: https://sfbanorcalarml.org/donate/. We are a
+even more next year, and if you'd like to give to our team, you may do so at 
+our [donations page](/donate). We are a
 registered 501(c)(3) organization and contributions are tax-deductible.
 
 Please stay in touch! Students are encouraged to join the team Discord server

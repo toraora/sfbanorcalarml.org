@@ -37,7 +37,7 @@ send that idea to us at info@sfbanorcalarml.org and we may be able to help.
 
 ### A few reminders
 
-All team information and announcements are posted at http://sfbanorcalarml.org/.
+All team information and announcements are posted on our [homepage](/).
 If you have recently joined the team, you can go there to see an archive of old
 emails and announcements. Students are invited to join our team's Discord server
 by going to our website and clicking the Discord icon on the front page.
