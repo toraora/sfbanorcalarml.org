@@ -62,7 +62,7 @@ please get in touch!
 
 **Communications**
 
-Please send all questions to our new email address at info@sfbanorcalarml.org.
+Please send all questions to our new email address at {{ email() }}.
 Emails to this address are seen by multiple members of the coaching staff, and
 is the best way to ensure that you get an answer as quickly as possible.
 
@@ -90,7 +90,7 @@ In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. Yo
 
 - Do not use anything offensive or anyone else's copyrighted material.
 
-Send your designs to info@sfbanorcalarml.org by April 28th. If you would like help with your design, send it in at least a week early, and we will do our best to help improve it.
+Send your designs to {{ email() }} by April 28th. If you would like help with your design, send it in at least a week early, and we will do our best to help improve it.
 
 **Action Items**
 

@@ -103,7 +103,7 @@ As always, if you have any questions, please let us know!
 
 **A1 Team**
 
-*Redacted for the website -- email info@sfbanorcalarml.org if you need
+*Redacted for the website -- email {{ email() }} if you need
 assistance.*
 
 **A2 Team**

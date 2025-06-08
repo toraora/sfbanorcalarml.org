@@ -49,4 +49,4 @@ In order for us to be most efficient, we could also use a few volunteers to help
 us distribute test papers and proctor the competition. If you're available to
 help, please let us know when you arrive, and we'd really appreciate your help.
 
-Please email us at info@sfbanorcalarml.org if you have any additional questions.
+Please email us at {{ email() }} if you have any additional questions.

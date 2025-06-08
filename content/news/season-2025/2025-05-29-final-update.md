@@ -39,5 +39,5 @@ As always, if you have any questions, please let us know!
 
 ### Travel Roster
 
-*Redacted for the website -- email info@sfbanorcalarml.org if you need
+*Redacted for the website -- email {{ email() }} if you need
 assistance.*

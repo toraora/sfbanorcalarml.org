@@ -11,7 +11,7 @@ Check out our [Season Calendar](/news/season-2025/2025-calendar/) for the full s
 We held an online info session on Wednesday, **April 16th**, at 6pm. This info session is intended for students who are new to ARML.
 
 You can review the [recording](https://youtu.be/43vwjw4X4gk) and email us at
-info@sfbanorcalarml.org if you have any questions.
+{{ email() }} if you have any questions.
 
 ### Tryouts
 
@@ -40,14 +40,14 @@ the in-person practices.
 
 If you're participating in ARML from the Sacramento area, visit our
 [Sacramento page](/sac/) or contact
-sacramento@sfbanorcalarml.org for more information. Sacramento area students are not
+{{ email(name="sacramento") }} for more information. Sacramento area students are not
 required to attend Bay Area practices and do not need to fill out Practice
 Absence Forms.
 
 ## Schedule
 
 This is a schedule of our events this spring. Note that [Sacramento practices](/sac/) are
-not listed here. Contact sacramento@sfbanorcalarml.org to learn more about practices
+not listed here. Contact {{ email(name="sacramento") }} to learn more about practices
 held at UC Davis.
 
 * Info Session: April 16 (Wednesday), 6pm-6:30pm
@@ -58,7 +58,7 @@ held at UC Davis.
       [ContestDojo](https://contestdojo.com/) accounts at 4pm. Students should
       start no later than 4:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
-      info@sfbanorcalarml.org ahead of time with a ContestDojo student
+      {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * ARML Local: April 27 (Sunday), 9am-1pm
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
@@ -73,7 +73,7 @@ held at UC Davis.
       [ContestDojo](https://contestdojo.com/) accounts at 11am. Students should
       start no later than 11:10am in order to have the full allotted time.
       Unregistered students who want to participate should email
-      info@sfbanorcalarml.org ahead of time with a ContestDojo student
+      {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * Practice 1: May 4 (Sunday), noon-5pm
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131

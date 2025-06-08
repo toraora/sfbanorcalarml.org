@@ -27,7 +27,7 @@ Special shout-outs to:
   your contributions to our community. 
 
 Nathan took many photos at ARML, and they can be found at the following link:
-*[redacted for the website -- email info@sfbanorcalarml.org for the link]*.
+*[redacted for the website -- email {{ email() }} for the link]*.
 
 Please stay in touch! Students are encouraged to join the team Discord server
 -- click on the Discord icon on our [website](/) to join. I hope that we'll see

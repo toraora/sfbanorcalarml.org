@@ -7,7 +7,7 @@ Dear ARML Team,
 
 This email contains a lot of time-sensitive information about upcoming
 activities and deadlines. Please read through it and email us at
-info@sfbanorcalarml.org if you have any questions.
+{{ email() }} if you have any questions.
 
 **ARML Local**
 

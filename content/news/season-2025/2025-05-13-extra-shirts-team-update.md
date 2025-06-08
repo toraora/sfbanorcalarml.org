@@ -24,7 +24,7 @@ Everyone on the travel roster (including coaches and parent chaperones) will
 receive a team t-shirt based on the size that you submitted on your information
 sheet. There is no need to request a shirt. If you need to change the size of
 the shirt that you ordered, please get in touch with us as soon as possible
-at info@sfbanorcalarml.org.
+at {{ email() }}.
 
 We are opening a limited time opportunity to buy an *additional* shirt, perhaps
 if you want a shirt of a different color, for example. If you'd like to
@@ -80,7 +80,7 @@ As always, if you have any questions, please let us know!
 
 **A1 Team**
 
-*Redacted for the website -- email info@sfbanorcalarml.org if you need
+*Redacted for the website -- email {{ email() }} if you need
 assistance.*
 
 **A2 Team**

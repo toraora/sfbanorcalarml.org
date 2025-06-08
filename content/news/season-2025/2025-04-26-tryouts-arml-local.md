@@ -7,7 +7,7 @@ Dear ARML Team,
 
 This email contains a lot of time-sensitive information about upcoming
 activities and deadlines. Please read through it and email us at
-info@sfbanorcalarml.org if you have any questions.
+{{ email() }} if you have any questions.
 
 ### First Online Tryout
 
@@ -61,7 +61,7 @@ email by the end of day on Monday.
 ### Sacramento
 
 If you live in the Sacramento area, there are weekly practices for your region at UC Davis. For more information about those
-practices, please visit [Sacramento page](https://sfbanorcalarml.org/sac/) or contact sac@sfbanorcalarml.org.
+practices, please visit [Sacramento page](https://sfbanorcalarml.org/sac/) or contact {{ email(name="sac") }}
 
 ### T-Shirt Designs
 

@@ -11,4 +11,4 @@ We hope to see all of you return next year!
 
 To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR) 
 and join our mailing list [here](https://forms.gle/q7zA1AZEEsZDDnC6A).
-If you have any questions, please contact us at info@sfbanorcalarml.org.
+If you have any questions, please contact us at {{ email() }}.

@@ -19,4 +19,4 @@ In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. Yo
 
 - *New for 2025*: Do not use any AI-generated designs or design elements.
 
-Send your designs to info@sfbanorcalarml.org by April 30th. If you would like help with your design, send it in at least a week early, and we will do our best to help improve it.
+Send your designs to {{ email() }} by April 30th. If you would like help with your design, send it in at least a week early, and we will do our best to help improve it.

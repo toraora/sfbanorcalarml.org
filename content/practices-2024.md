@@ -57,14 +57,14 @@ held at UC Davis.
       [ContestDojo](https://contestdojo.com/) accounts at 4pm. Students should
       start no later than 4:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
-      info@sfbanorcalarml.org ahead of time with a ContestDojo student
+      {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * Tryout 2: May 4 (Saturday), 3pm-4pm, online
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo](https://contestdojo.com/) accounts at 3pm. Students should
       start no later than 3:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
-      info@sfbanorcalarml.org ahead of time with a ContestDojo student
+      {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * Practice 1: May 5 (Sunday), noon-5pm
     * Location: Enlighten Heart Education Center, 1334 Ridder Park Dr, San Jose, CA 95131

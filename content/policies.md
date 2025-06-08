@@ -4,15 +4,15 @@ title: "Team Policies"
 
 ### Withdrawing from the team
 
-Submitting payment for ARML represents a commitment to attend with your team. If you need to withdraw from the team after submitting payment, notify the coaching staff (info@sfbanorcalarml.org) immediately. We are able to offer refunds, minus processing fees, before April 28th. After that, we incur the costs of participation, and it will not be possible to provide refunds.
+Submitting payment for ARML represents a commitment to attend with your team. If you need to withdraw from the team after submitting payment, notify the coaching staff ({{ email() }}) immediately. We are able to offer refunds, minus processing fees, before April 28th. After that, we incur the costs of participation, and it will not be possible to provide refunds.
 
 Withdrawing from ARML will negatively affect your standing for elite team selection in future years. In addition, withdrawing without notifying the coaching staff promptly may result in you not being allowed to go to ARML at all in the future.
 
-Please note that communication about withdrawals and replacements is ONLY accepted via email to info@sfbanorcalarml.org. Do not attempt to notify coaches in person or via phone, text message, social media, or any other mode of communication, as these will be ignored.
+Please note that communication about withdrawals and replacements is ONLY accepted via email to {{ email() }}. Do not attempt to notify coaches in person or via phone, text message, social media, or any other mode of communication, as these will be ignored.
 
 ### ARML Local
 
-ARML Local will be held on April 27. See the [practices page](/practices/) for more information. Participation is expected for students interested in being selected for elite teams, but is otherwise optional. All students from our region who are eligible to participate in ARML Local may do so with our team, regardless of whether they have registered on ContestDojo or paid any fees. No fee is required for students to participate in ARML Local through our organization. Students are also allowed to take ARML Local as part of another Bay Area organization; if you do this, please send your score report to info@sfbanorcalarml.org so that we can include your score as part of the elite team selection process.
+ARML Local will be held on April 27. See the [practices page](/practices/) for more information. Participation is expected for students interested in being selected for elite teams, but is otherwise optional. All students from our region who are eligible to participate in ARML Local may do so with our team, regardless of whether they have registered on ContestDojo or paid any fees. No fee is required for students to participate in ARML Local through our organization. Students are also allowed to take ARML Local as part of another Bay Area organization; if you do this, please send your score report to {{ email() }} so that we can include your score as part of the elite team selection process.
 
 ### Elite team selection
 

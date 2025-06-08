@@ -8,6 +8,6 @@ non-profit organization. Contributions to the team are tax-deductible.
 {{ donate() }}
 
 If you'd like to donate via check, wire transfer, or some other method, please
-email info@sfbanorcalarml.org for instructions.
+email {{ email() }} for instructions.
 
 Thank you for your support of our community!

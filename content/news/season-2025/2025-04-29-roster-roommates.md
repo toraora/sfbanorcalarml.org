@@ -45,7 +45,7 @@ for electronic signatures -- watch out for instructions in future emails.
 As a reminder, t-shirt designs should be submitted by Wednesday, April 30.
 Please see [this post](/news/season-2025/shirt-design/) for more information.  If you have
 a design idea in mind, but are unable to produce a design, please send that idea
-to us at info@sfbanorcalarml.org and we may be able to help.
+to us at {{ email() }} and we may be able to help.
 
 ### A few reminders
 
@@ -54,7 +54,7 @@ If you have recently joined the team, you can go there to see an archive of old
 emails and announcements. 
 
 If you have any questions, you can reach out to our coaching staff at
-info@sfbanorcalarml.org.
+{{ email() }}.
 
 –Moor and the rest of the SFBA/NorCal coaching staff
 
@@ -62,5 +62,5 @@ info@sfbanorcalarml.org.
 
 ### Current Team Roster
 
-*Redacted for the website -- email info@sfbanorcalarml.org if you need
+*Redacted for the website -- email {{ email() }} if you need
 assistance.*

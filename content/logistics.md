@@ -12,7 +12,7 @@ only officially sanctioned method of travel to ARML.
 All students must travel via approved means to ARML. This is usually limited to
 the bus or travel with the student's parent or guardian. Students wishing to
 travel with their parents, or arrange a carpool with other students and parents,
-should contact the coaching staff immediately at info@sfbanorcalarml.org.
+should contact the coaching staff immediately at {{ email() }}.
 
 Due to lack of popularity last year, we do not plan to have a Sunday morning
 return option this year.

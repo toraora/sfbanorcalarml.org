@@ -8,4 +8,4 @@ info session was intended for those new to ARML.
 
 A recording of the info session is available at https://youtu.be/H4TIQWcWqWg.
 
-If you have any questions, please contact us at info@sfbanorcalarml.org.
+If you have any questions, please contact us at {{ email() }}.

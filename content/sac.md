@@ -10,7 +10,7 @@ automatically included on the Sacramento / Davis activities, including priority
 access to the regional Sacramento / Davis team.
 
 For information about ARML in the Sacramento/Davis region, contact
-sacramento@sfbanorcalarml.org.
+{{ email(name="sacramento") }}.
 
 ## Practices
 
@@ -20,6 +20,6 @@ area.
 Practices will be at UC Davis, in Shields Library room 162, **every Saturday, noon to 3pm**, starting April 19.
 
 If you're participating in ARML from the Sacramento area, contact
-sacramento@sfbanorcalarml.org for more information. Sacramento area students are not
+{{ email(name="sacramento") }} for more information. Sacramento area students are not
 required to attend Bay Area practices and do not need to fill out Practice
 Absence Forms.

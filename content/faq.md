@@ -48,7 +48,7 @@ ARML is open to all students in Northern California, regardless of contest score
 
 ### Am I old enough for ARML?
 
-SFBA/NorCal ARML is open to students of all ages who are in grade 12 or below. Most of our students are in grades 6-12, but younger students have joined the team in the past. Parents of students in grades 5 or below that are interested in ARML should contact the coaching staff at info@sfbanorcalarml.org for more information.
+SFBA/NorCal ARML is open to students of all ages who are in grade 12 or below. Most of our students are in grades 6-12, but younger students have joined the team in the past. Parents of students in grades 5 or below that are interested in ARML should contact the coaching staff at {{ email() }} for more information.
 
 ### Who chaperones the trip?
 

@@ -27,7 +27,7 @@ Special shout-outs to:
 - Everyone on our teams for being integral parts of our community.
 
 Nathan took many photos at ARML, and they can be found at the following link:
-*[redacted for the website -- email info@sfbanorcalarml.org for the link]*.
+*[redacted for the website -- email {{ email() }} for the link]*.
 
 Our ARML team is an all-volunteer effort. Your registration fees go directly
 toward the contest fee, transportation, dorm rooms, practices, and the team

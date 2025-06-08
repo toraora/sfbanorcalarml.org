@@ -24,4 +24,4 @@ schedule information.
 
 During ARML season, announcements are posted frequently on [our home page](/).
 
-If you have any questions, contact us at info@sfbanorcalarml.org.
+If you have any questions, contact us at {{ email() }}.

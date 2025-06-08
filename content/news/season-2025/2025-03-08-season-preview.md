@@ -23,6 +23,6 @@ Our tentative season schedule is as follows:
 To receive updates via email when registration opens, 
 sign up for our email list here: https://tinyurl.com/sfbanorcalarml
 
-If you have any questions, contact us at info@sfbanorcalarml.org.
+If you have any questions, contact us at {{ email() }}.
 
 ---

@@ -47,6 +47,6 @@ http://sfbanorcalarml.org/practices/.
 As a reminder, t-shirt designs should be submitted by tomorrow, April 28. Please
 see [this post](/news/season-2024/2024-arml-information/) for more information.
 If you have a design idea in mind, but are unable to produce a design, please
-send that idea to us at info@sfbanorcalarml.org and we may be able to help.
+send that idea to us at {{ email() }} and we may be able to help.
 
 –Moor and the rest of the SFBA/NorCal coaching staff
