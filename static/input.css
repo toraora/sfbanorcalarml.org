@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  src: url('/fonts/IBMPlexSansVar-Roman.woff2') format('woff2-variations');
+  font-family: 'IBM Plex Sans Variable';
+  font-style: normal;
+  font-weight: 200 700;
+}
+
+@font-face {
+  src: url('/fonts/IBMPlexSansVar-Italic.woff2') format('woff2-variations');
+  font-family: 'IBM Plex Sans Variable';
+  font-style: italic;
+  font-weight: 200 700;
+}
+
+:root {
+  font-family: "IBM Plex Sans Variable", sans-serif;
+}
+
+#banner {
+  background-image:
+    linear-gradient(rgba(0 0 0 / 75%), rgba(0 0 0 / 75%)),
+    url(/assets/banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#text-404 {
+  @apply bg-gradient-to-br from-teal-400 to-emerald-300 bg-clip-text text-transparent;
+  font-size: 12rem;
+  font-weight: bold;
+  position: relative;
+  --text-shadow: 1px 1px theme("colors.emerald.500"), 2px 2px theme("colors.emerald.500"), 3px 3px theme("colors.emerald.500"), 4px 4px theme("colors.emerald.500"), 5px 5px theme("colors.emerald.500");
+}
+
+#text-404::after {
+  @apply inset-0;
+  @apply transition-all;
+  transition-duration: 25ms;
+  position: absolute;
+  content: "404";
+  z-index: -1;
+  font-size: 12rem;
+  font-weight: bold;
+  text-shadow: var(--text-shadow);
+}

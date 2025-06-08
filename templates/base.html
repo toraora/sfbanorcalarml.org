@@ -1,0 +1,127 @@
+{% import "macros.html" as macros %}
+
+<!DOCTYPE html>
+
+<html lang="en" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    {% set permalink = section.permalink | default(value=page.permalink | default(value="")) %}
+    {% if permalink and permalink is not starting_with("/") %}
+    <link rel="canonical" href="{{ permalink | safe }}" />
+    {% endif %}
+    {% set title = section.title | default(value=page.title | default(value="SFBA / NorCal ARML")) %}
+
+    <title>{{ title }}</title>
+    <meta name="og:title" content="{{ title }}" />
+
+    {% set description = section.description 
+      | default(value=section.summary | default(value=page.description | default(value=page.summary | default(value="")))) 
+      | striptags | split(pat="\n") | join(sep=" ") 
+    %} 
+    {% if description %}
+    <meta name="description" content="{{ description }}" />
+    <meta name="og:description" content="{{ description }}" />
+    {% endif %}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="SFBA / NorCal ARML" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.min.css"
+    />
+    <link rel="preconnect" href="https://rsms.me/" />
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css"
+    />
+    <link rel="stylesheet" href="/style.css?{{ get_random(end=1000000) }}" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#2c3e50" />
+
+    <script>
+      function thing() {
+        document.getElementById("navbar").classList.toggle("open");
+      }
+    </script>
+  </head>
+
+  <body class="bg-[rgb(29,30,32)] min-h-screen">
+    <div
+      class="max-w-3xl min-h-screen p-4 md:p-8 mx-auto flex flex-col gap-4 md:gap-8"
+    >
+      {% block header %}
+      <header class="flex flex-col gap-4 text-center">
+        <p class="text-2xl font-bold text-headings">SFBA / NorCal ARML</p>
+
+        <nav
+          id="navbar"
+          class="[&.open>a.nav-hidden]:block [&>a.nav-hidden]:hidden flex flex-col md:flex-row md:mx-auto gap-4 items-stretch"
+        >
+          {{ macros::nav_link(path="@/_index.md", label="Home") }}
+          {{ macros::nav_link(path="@/about.md", label="About") }}
+          {{ macros::nav_link(path="@/news/season-2025/_index.md", label="News") }}
+          {{ macros::nav_link(path="@/join.md", label="Joining") }}
+          {{ macros::nav_link(path="@/logistics.md", label="Logistics") }}
+          {{ macros::nav_link(path="@/faq.md", label="FAQ") }}
+          {# {{ macros::nav_link(path="@/policies.md", label="Policies") }} #}
+          {{ macros::nav_link(path="@/partners.md", label="Partners", activeonly=true) }}
+          {{ macros::nav_link(path="@/practices.md", label="Practices") }}
+          {{ macros::nav_link(path="@/sac.md", label="Sacramento") }}
+          {# {{ macros::nav_link(path="@/donate.md", label="Donate") }} #}
+        </nav>
+      </header>
+      {% endblock %}
+
+      <hr class="border-gray-200 dark:border-gray-700" />
+
+      <div
+        id="content-wrapper"
+        class="flex-1 flex flex-col gap-4 md:gap-8 relative"
+      >
+        {% block content %}{% endblock %}
+      </div>
+
+      <hr class="border-gray-200 dark:border-gray-700" />
+
+      {% block footer %}
+      <div
+        class="flex flex-col items-center justify-between md:items-start text-center md:flex-row gap-4 mb-12 text-prose"
+      >
+        <span>
+          &copy; 2025 Lemniscate Education
+        </span>
+
+        <p>
+          <a href="https://discord.gg/XsqPrShvyR">
+            <img src="/assets/discord.svg" alt="Discord" width="20" height="20" class="inline-block">
+          </a>
+          /
+          <a href="/partners" class="underline">Partners</a>
+          /
+          <a href="/donate" class="underline">Donate</a>
+          /
+          <a href="/policies" class="underline">Policies</a>
+        </p>
+      </div>
+      {% endblock %}
+    </div>
+
+    <script type="module">
+      import twemoji from "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/+esm";
+      twemoji.parse(document.body, {
+        className: "inline w-[1.25em] h-[1.25em] not-prose",
+        base: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/",
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+{# Macro for news post notifications #}
+
+{% macro post_notification(title, href, class, date="", content="", icon_class="", label="") %}
+<a class="{{ class }} hover:-translate-y-1 transition-all border p-4 rounded-xl flex items-center gap-2"
+  href="{{ href }}">
+  <div class="flex-1 flex flex-col gap-2">
+    {% if label or icon_class %}
+    <p class="uppercase text-xs text-headings flex gap-2 items-center">
+      {% if icon_class %}<i class="bi {{ icon_class }}"></i>{% endif %}
+      {% if label %}<span>{{ label }}</span>{% endif %}
+    </p>
+    {% endif %}
+    <p class="text-base font-medium text-headings">
+      {{ title | split(pat="\n") | join(sep=" • ") }}
+    </p>
+    {% if content %}
+    <p class="text-sm text-prose">
+      {{ content | striptags | truncate(length=200) }}
+    </p>
+    {% endif %}
+
+    {% if date %}
+    <p class="text-xs text-prose">
+      {{ date | date(format="%A, %B %-d, %Y") | trim_end_matches(pat=", 12:00 AM") }}
+    </p>
+    {% endif %}
+  </div>
+
+  <i class="bi bi-chevron-right"></i>
+</a>
+{% endmacro %}
+
+{# Macro for event cards #}
+
+{% macro event(name, date, description, href, class="") %}
+<div class="group rounded-xl overflow-hidden {{ class }} transition-all hover:-translate-y-1">
+  <a href="{{ href }}" class="p-6 flex flex-col gap-4 group-hover:backdrop-brightness-75 transition-all h-full">
+    <div class="flex flex-col gap-1">
+      <h3 class="font-bold text-lg md:text-2xl flex items-center gap-2">
+        <span>{{ name }}</span>
+        <i class="bi bi-chevron-right text-base transition-transform"></i>
+      </h3>
+      <p class="text-sm font-medium opacity-50">{{ date }}</p>
+    </div>
+
+    <p class="text-base opacity-90">
+      {{ description | safe }}
+    </p>
+  </a>
+</div>
+{% endmacro %}
+
+{# =============================== #}
+{# = STARTING THE ACTUAL CONTENT = #}
+{# =============================== #}
+
+{% block content %}
+
+{# News post notification, if there is one #}
+<div class="flex flex-col gap-4">
+  {% set news_section = get_section(path="news/season-2025/_index.md") %}
+  {% set news_posts = news_section.pages | slice(end=1) %}
+  {% for news_post in news_posts %}
+  {{ self::post_notification(
+    title=news_post.title,
+    href=news_post.permalink,
+    class="bg-gray-500 hover:bg-gray-600 border-gray-900",
+    icon_class="bi-megaphone-fill",
+    label="News",
+  ) }}
+  {% endfor %}
+</div>
+
+{# Rest of content (rendered from markdown) #}
+
+<div class="prose">
+  {{ section.content | safe }}
+</div>
+
+{# Recent news section #}
+
+<h2 class="font-bold text-xl md:text-3xl text-headings">Recent News</h2>
+<div class="flex flex-col gap-4">
+  {% set news_section = get_section(path="news/season-2025/_index.md") %}
+  {% set news_posts = news_section.pages | slice(end=5) %}
+  {% for news_post in news_posts %}
+  {{ self::post_notification(
+    title=news_post.title,
+    href=news_post.permalink,
+    class="bg-bgLight hover:bg-gray-600 border-gray-900",
+    content=news_post.content,
+    date=news_post.date,
+  ) }}
+  {% endfor %}
+</div>
+
+{% endblock %}
