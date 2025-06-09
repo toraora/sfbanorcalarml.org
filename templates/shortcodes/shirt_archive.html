@@ -1,0 +1,13 @@
+<div class="grid grid-cols-2 pb-5">
+    <span class="text-underline text-xl text-content-secondary dark:text-content-secondary-dark">
+        {{ year }}
+    </span>
+    <span></span>
+    {% if coming_soon %}
+    <span class="text-content-tertiary dark:text-content-tertiary-dark">Coming soon!</span>
+    <span></span>
+    {% else %}
+    <img class="my-2 pr-1 rounded-lg" src="/assets/shirts/{{ year }}f.jpg" />
+    <img class="my-2 pl-1 rounded-lg" src="/assets/shirts/{{ year }}b.jpg" />
+    {% endif %}
+</div>

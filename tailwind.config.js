@@ -17,6 +17,14 @@ module.exports = {
           DEFAULT: "rgb(205, 206, 207)",
           dark: "rgb(59, 60, 62)",
         },
+        "background-highlight": {
+          DEFAULT: "rgb(245, 225, 225)",
+          dark: "rgb(45, 30, 32)",
+        },
+        "background-highlight-hover": {
+          DEFAULT: "rgb(245, 215, 215)",
+          dark: "rgb(50, 20, 22)",
+        },
         "content-primary": {
           DEFAULT: "rgb(30, 30, 30)",
           dark: "rgb(245, 245, 245)",

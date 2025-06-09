@@ -29,11 +29,11 @@
 }
 
 #text-404 {
-  @apply bg-gradient-to-br from-teal-400 to-emerald-300 bg-clip-text text-transparent;
+  @apply bg-gradient-to-br from-orange-400 to-amber-300 bg-clip-text text-transparent;
   font-size: 12rem;
   font-weight: bold;
   position: relative;
-  --text-shadow: 1px 1px theme("colors.emerald.500"), 2px 2px theme("colors.emerald.500"), 3px 3px theme("colors.emerald.500"), 4px 4px theme("colors.emerald.500"), 5px 5px theme("colors.emerald.500");
+  --text-shadow: 1px 1px theme("colors.rose.500"), 2px 2px theme("colors.rose.500"), 3px 3px theme("colors.rose.500"), 4px 4px theme("colors.rose.500"), 5px 5px theme("colors.rose.500");
 }
 
 #text-404::after {
