@@ -1,7 +1,7 @@
 { lib, stdenvNoCC, tailwindcss, zola, baseUrl ? null }:
 
 stdenvNoCC.mkDerivation {
-  pname = "berkeley.mt";
+  pname = "sfbanorcalarml.org";
   version = "1.0.0";
   src = ./.;
   nativeBuildInputs = [ tailwindcss zola ];

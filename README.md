@@ -1,9 +1,7 @@
 # berkeley.mt
 
 Welcome! This is the new website for the
-[Berkeley Math Tournament](https://berkeley.mt/), a UC Berkeley student-led
-organization that aims to spread mathematics and the spirit of mathematical
-competition globally.
+[SFBA / NorCal ARML team](https://sfbanorcalarml.org/).
 
 One of the primary goals is to make it easy for anyone to add and update
 content. To that end, the site is built with [Zola](https://getzola.org/), a
@@ -25,9 +23,7 @@ To add or edit a page, simply work on a file in the appropriate location:
 | --------------------------- | ------------------ | -------------------------------------------- |
 | `content/_index.md`         | The Home tab       | Fancy banner is in the `index.html` template |
 | `content/about.md`          | The About tab      |                                              |
-| `content/sponsors/index.md` | The Sponsors tab   | In a folder to colocate sponsor logos        |
 | `content/news/*.md`         | News posts         | File names should be prefixed with the date  |
-| `content/events/*.md`       | Event detail pages |                                              |
 
 ## Writing Markdown
 
@@ -119,7 +115,7 @@ This will make a static build of the site and place the files in the `public/`
 folder. Simply copy these files to a web host using your tool of choice to
 deploy.
 
-To make a production build for use at https://berkeley.mt/, run:
+To make a production build for use at https://sfbanorcalarml.org/, run:
 
 ```bash
 nix build .#for-production

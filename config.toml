@@ -14,5 +14,8 @@ taxonomies = [{ name = "tags", render = false }]
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
+# turns -- into an en dash and etc.
+smart_punctuation = true
+
 [extra]
 # Put all your custom variables here
