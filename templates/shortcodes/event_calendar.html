@@ -1,0 +1,21 @@
+{% set data = load_data(path=path) %}
+<table class="table-auto w-full">
+  <thead>
+    <tr>
+      <th class="px-4 py-2 border-b">Event</th>
+      <th class="px-4 py-2 border-b">Date</th>
+      <th class="px-4 py-2 border-b">Location</th>
+      <th class="px-4 py-2 border-b">Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in data | sort(attribute="date") | reverse %}
+      <tr>
+        <td class="px-4 py-2 border-b">{{ row.name }}</td>
+        <td class="px-4 py-2 border-b">{{ row.date | date(format="%b %-d, %Y") }}</td>
+        <td class="px-4 py-2 border-b">{{ row.location }}</td>
+        <td class="px-4 py-2 border-b"><a href="{{ row.link }}">{{ row.link_text }}</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

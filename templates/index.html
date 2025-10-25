@@ -60,6 +60,15 @@
 
 {# News post notification, if there is one #}
 <div class="flex flex-col gap-4">
+  {% set offseason_post = get_page(path="offseason.md") %}
+  {{ self::post_notification(
+    title=offseason_post.title,
+    href=offseason_post.permalink,
+    class="bg-background-highlight dark:bg-background-highlight-dark hover:bg-background-highlight-hover dark:hover:bg-background-highlight-hover-dark border border-content-tertiary dark:border-content-tertiary-dark",
+    icon_class="bi-megaphone-fill",
+    label="News",
+  ) }}
+  
   {% set news_section = get_section(path="news/season-2025/_index.md") %}
   {% set news_posts = news_section.pages | slice(end=1) %}
   {% for news_post in news_posts %}

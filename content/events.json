@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Stanford Mini Math Meet (SM3)",
+    "date": "2025-10-25",
+    "location": "Stanford",
+    "link": "https://www.stanfordmathtournament.com/sm3",
+    "link_text": "SM3"
+  },
+  {
+    "name": "Berkeley Math Tournament",
+    "date": "2025-11-08",
+    "location": "Berkeley",
+    "link": "https://berkeley.mt/",
+    "link_text": "BMT"
+  },
+  {
+    "name": "Gunn Math Competition",
+    "date": "2026-03-14",
+    "location": "Palo Alto",
+    "link": "https://compete.gunnmathcircle.org/",
+    "link_text": "Link"
+  }
+]
