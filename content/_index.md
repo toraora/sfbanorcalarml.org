@@ -10,5 +10,5 @@ The 2025 ARML Season has ended -- check out our [Season Summary](/news/season-20
 We hope to see all of you return next year!
 
 To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR) 
-and join our mailing list [here](https://forms.gle/q7zA1AZEEsZDDnC6A).
+and join our mailing list [here](/links/interest-form).
 If you have any questions, please contact us at {{ email() }}.
