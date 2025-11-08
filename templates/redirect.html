@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content="0; url={{ page.extra.redirect_url | safe }}" />
+    <title>{{ page.title | default(value="Redirecting...") }}</title>
+    <script>
+        window.location.href = "{{ page.extra.redirect_url | safe }}";
+    </script>
+  </head>
+  <body>
+    <div style="max-width: 600px; margin: 50px auto; padding: 20px; text-align: center; font-family: system-ui, -apple-system, sans-serif;">
+      <h1>Redirecting...</h1>
+      <p>If you are not redirected automatically, <a href="{{ page.extra.redirect_url | safe }}">click here</a>.</p>
+    </div>
+  </body>
+</html>
+
