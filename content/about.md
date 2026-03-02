@@ -2,6 +2,8 @@
 title = "About our Team"
 +++
 
+{{ outdated_banner(season="2025", after="2025-07-01") }}
+
 ARML (American Regions Math League) is the premier national competition for math teams, and is the largest, most prestigious, and probably most fun on-site math competition in the United States. Our organization brings several teams of 15 talented math students to represent Northern California and the San Francisco Bay Area at ARML each year, and we would like to invite interested students to register to be on this year's team. This year's ARML meet is scheduled for May 30 -- May 31, 2025 and will be held at University of Nevada, Reno.
 
 ## About ARML

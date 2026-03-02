@@ -2,6 +2,8 @@
 title: "Frequently Asked Questions"
 ---
 
+{{ outdated_banner(season="2025", after="2025-07-01") }}
+
 <!--
 ### I need to take the SAT on the same day as ARML. What do I do?
 

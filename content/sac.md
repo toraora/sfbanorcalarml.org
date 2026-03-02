@@ -2,6 +2,8 @@
 title: "Sacramento / Davis Information"
 ---
 
+{{ outdated_banner(season="2025", after="2025-07-01") }}
+
 ## Joining the Team
 
 To join the team, see the [Joining the Team](/join/) page and follow the

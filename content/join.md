@@ -2,6 +2,8 @@
 title = "Joining the Team"
 +++
 
+{{ outdated_banner(season="2025", after="2025-07-01") }}
+
 There are four steps to joining the SFBA/NorCal ARML team. If you are interested in going to ARML, complete all four steps:
 
 ### 1. Read the [FAQ](/faq/) and [Policies](/policies/).

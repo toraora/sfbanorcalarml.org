@@ -1,0 +1,13 @@
+{% if now(timestamp=true) > after ~ "T00:00:00Z" | date(format="%s") | int %}
+<div class="not-prose bg-orange-50 dark:bg-orange-950 border border-orange-200 dark:border-orange-800 p-4 rounded-xl flex flex-col gap-2">
+  <p class="uppercase text-xs text-gray-500 dark:text-gray-400 flex gap-2 items-center">
+    <i class="bi bi-exclamation-circle-fill"></i>
+    <span>Outdated Information</span>
+  </p>
+  <p class="text-base font-medium text-content-primary dark:text-content-primary-dark">
+    The information here is from the {{ season }} season and is outdated.
+    To stay current, join our mailing list <a style="text-decoration: underline;" href="/interest-form">here</a>.
+    We expect to finish refreshing all information on the site by mid-March. 
+  </p>
+</div>
+{% endif %}

@@ -2,6 +2,8 @@
 title: "Practices and Tryouts"
 ---
 
+{{ outdated_banner(season="2025", after="2025-07-01") }}
+
 ### Calendar
 
 Check out our [Season Calendar](/news/season-2025/2025-calendar/) for the full schedule.

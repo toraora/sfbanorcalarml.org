@@ -2,6 +2,8 @@
 title: "Logistics and Travel"
 ---
 
+{{ outdated_banner(season="2025", after="2025-07-01") }}
+
 The default mode of transportation to ARML is by bus. The buses will leave from
 the Bay Area on the morning of May 30th and return on the evening of May 31st.
 Buses will make multiple stops in the Bay Area (typically San Jose, Palo Alto,
