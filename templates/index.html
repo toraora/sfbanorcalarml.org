@@ -60,7 +60,7 @@
 
 {# News post notification, if there is one #}
 <div class="flex flex-col gap-4">
-  {% set news_section = get_section(path="news/season-2025/_index.md") %}
+  {% set news_section = get_section(path="news/season-2026/_index.md") %}
   {% set news_posts = news_section.pages | slice(end=1) %}
   {% for news_post in news_posts %}
   {{ self::post_notification(
@@ -83,8 +83,9 @@
 
 <h2 class="font-bold text-xl md:text-3xl text-content-primary dark:text-content-primary-dark">Recent News</h2>
 <div class="flex flex-col gap-4">
-  {% set news_section = get_section(path="news/season-2025/_index.md") %}
-  {% set news_posts = news_section.pages | slice(end=5) %}
+  {% set news_section_2026 = get_section(path="news/season-2026/_index.md") %}
+  {% set news_section_2025 = get_section(path="news/season-2025/_index.md") %}
+  {% set news_posts = news_section_2026.pages | concat(with=news_section_2025.pages) | slice(end=5) %}
   {% for news_post in news_posts %}
   {{ self::post_notification(
     title=news_post.title,
