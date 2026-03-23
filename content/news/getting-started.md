@@ -19,7 +19,7 @@ For more information, please see the pages linked in the top menu bar. In partic
 - [Practices](/practices/)
 - [Sacramento](/sac/), for students in the Sacramento/Davis area
 
-You should also visit the [2025 Season Calendar](/news/season-2025/2025-calendar/) for
+You should also visit the [2026 Season Calendar](/news/season-2026/2026-calendar/) for
 schedule information.
 
 During ARML season, announcements are posted frequently on [our home page](/).

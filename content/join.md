@@ -2,7 +2,9 @@
 title = "Joining the Team"
 +++
 
-{{ outdated_banner(season="2025", after="2025-07-01") }}
+<!-- TODO: create contestdojo event and make new infosheet -->
+
+{{ outdated_banner(season="2026", after="2026-07-01") }}
 
 There are four steps to joining the SFBA/NorCal ARML team. If you are interested in going to ARML, complete all four steps:
 
@@ -17,7 +19,7 @@ Fill out the [Information Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A) if you hav
 ### 3. Pay the ARML fee on [ContestDojo](https://contestdojo.com/).
 
 On [ContestDojo](https://contestdojo.com/), create or log into a *student*
-account. Under "Events Accepting Registrations", find "SFBA/NorCal ARML 2025"
+account. Under "Events Accepting Registrations", find "SFBA/NorCal ARML 2026"
 and click on the "Register" button. Select "Register As Independent Student" and
 complete the corresponding form. Please use the same name and email address as
 you did in the Information Sheet. You will pay the ARML fee as part of this
@@ -28,7 +30,7 @@ join a team to complete registration." No action is required from you at this
 point -- we will move you onto the "Registered Students" team once we review
 your registration.
 
-The $390 ARML fee represents your commitment to attending ARML. We must receive your payment by April 28th, and we cannot provide refunds after this date. You cannot be placed on a team until you have paid.
+The $410 ARML fee represents your commitment to attending ARML. We must receive your payment by Monday, April 27th, and we cannot provide refunds after this date. You cannot be placed on a team until you have paid.
 
 This fee includes transportation to ARML on Friday morning, transportation home
 on Saturday evening, one night in the dorm, two meals on Saturday, and
@@ -36,17 +38,16 @@ a team t-shirt.
 
 ### 4. Fill out the permission slip.
 
-We will send a permission slip via DocuSign to parents of all team members in 
-early May. Permission slips must be electronically signed by May 28th.
+We will send a permission slip via email to parents of all team members in 
+early May. Permission slips must be electronically signed by May 27th.
 Students who are missing a permission slip after that date may lose their spot on the team with no refund.
 
 ## Deadlines
 
-We expect that all students who complete steps 1, 2, and 3 by April 28th will be able to participate at ARML. We will not be able to accommodate additional students after April 28th. 
+We expect that all students who complete steps 1, 2, and 3 by April 27th will be able to participate at ARML. We will not be able to accommodate additional students after April 27th. 
 
 ## Coaches and Parent Volunteers
 
-If you are an adult (parent, teacher, college student, alumnus, etc.) interested
-in helping run practices or chaperoning the ARML trip, fill out the [Information
-Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A). *Do not register on ContestDojo or
-pay any fees.* Coaching staff will contact you with more information.
+If you are an adult (parent, teacher, college student, alumnus, etc.) interested in helping run practices
+or chaperoning the ARML trip, fill out the [Information Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A).
+*Do not register on ContestDojo or pay any fees.* Coaching staff will contact you with more information.

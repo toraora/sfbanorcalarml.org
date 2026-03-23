@@ -2,7 +2,9 @@
 title: "Frequently Asked Questions"
 ---
 
-{{ outdated_banner(season="2025", after="2025-07-01") }}
+<!-- TODO: replace info sheetlink -->
+
+{{ outdated_banner(season="2026", after="2026-07-01") }}
 
 <!--
 ### I need to take the SAT on the same day as ARML. What do I do?
@@ -16,14 +18,14 @@ Follow the instructions [here](/join/).
 
 ### When do I have to sign up and pay?
 
-Sign up and pay by end of day on April 28th. We will not be able to accommodate
+Sign up and pay by end of day on April 27th. We will not be able to accommodate
 late registrations after this date.
 
 ### How do I sign up as a chaperone?
 
 Follow the instructions [here](/join/).
 
-### I followed all the sign-up instructions and paid the fee prior to April 28th. Am I accepted onto the team?
+### I followed all the sign-up instructions and paid the fee prior to April 27th. Am I accepted onto the team?
 
 If your [ContestDojo](https://contestdojo.com/) account shows that you have
 submitted payment, welcome to the team!
@@ -34,7 +36,7 @@ The fee can be paid online on [ContestDojo](https://contestdojo.com/). You do no
 
 ### What if I'm not sure yet whether or not I want to go to ARML?
 
-Fill out the [Information Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A) so we can send you updates and announcements. Do not submit payment on ContestDojo yet, though keep in mind that if you want to go to ARML, you must commit and pay by April 28th.
+Fill out the [Information Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A) so we can send you updates and announcements. Do not submit payment on ContestDojo yet, though keep in mind that if you want to go to ARML, you must commit and pay by April 27th.
 
 ### What if I have a conflict with part of the trip?
 
@@ -66,4 +68,4 @@ Students arrive Friday afternoon. Team meetings and practices are held after arr
 
 ### What about t-shirts?
 
-As is ARML tradition, we design a team t-shirt every year. Students (and chaperones!) are invited to submit designs for the t-shirt, which will be voted on by the entire team. Designs are due April 30th -- see [detailed instructions here](/news/season-2025/shirt-design/).
+As is ARML tradition, we design a team t-shirt every year. Students (and chaperones!) are invited to submit designs for the t-shirt, which will be voted on by the entire team. Designs are due April 30th -- see [detailed instructions here](/news/season-2026/shirt-design/).

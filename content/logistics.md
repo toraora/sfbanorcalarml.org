@@ -2,10 +2,10 @@
 title: "Logistics and Travel"
 ---
 
-{{ outdated_banner(season="2025", after="2025-07-01") }}
+{{ outdated_banner(season="2026", after="2026-07-01") }}
 
 The default mode of transportation to ARML is by bus. The buses will leave from
-the Bay Area on the morning of May 30th and return on the evening of May 31st.
+the Bay Area on the morning of May 29th and return on the evening of May 30th.
 Buses will make multiple stops in the Bay Area (typically San Jose, Palo Alto,
 and San Ramon) and a stop in the Sacramento/Davis area. Depending on the size of
 our team, the "bus" may include vans or other additional vehicles. This is the
@@ -15,9 +15,6 @@ All students must travel via approved means to ARML. This is usually limited to
 the bus or travel with the student's parent or guardian. Students wishing to
 travel with their parents, or arrange a carpool with other students and parents,
 should contact the coaching staff immediately at {{ email() }}.
-
-Due to lack of popularity last year, we do not plan to have a Sunday morning
-return option this year.
 
 ## ARML schedule and activities
 

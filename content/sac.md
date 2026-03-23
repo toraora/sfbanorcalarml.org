@@ -2,7 +2,7 @@
 title: "Sacramento / Davis Information"
 ---
 
-{{ outdated_banner(season="2025", after="2025-07-01") }}
+{{ outdated_banner(season="2026", after="2026-07-01") }}
 
 ## Joining the Team
 
