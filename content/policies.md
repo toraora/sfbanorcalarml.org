@@ -2,6 +2,29 @@
 title: "Team Policies"
 ---
 
+### SFBA / NorCal ARML Code of Conduct
+
+#### 1. Behavior & Shared Values
+
+The SFBA / NorCal ARML team aims to foster a positive, collaborative, and supportive community. All participants (students, parents, volunteers, and coaches) are expected to demonstrate respectful, responsible, and honest behavior at all times - during practices, travel, events, communications, and of course at the ARML competition itself.
+
+All participants are expected to:
+
+- Treat teammates, competitors, staff, coaches, volunteers, and parents with courtesy, kindness, and respect. Harassment, bullying, or discrimination of any kind will not be tolerated.
+- Be a team player and contribute positively to group problem-solving and team efforts.
+- Maintain a positive attitude and uphold the mission of SFBA / NorCal ARML in all related activities.
+
+#### 2. Academic and Competitive Integrity
+
+Participants must uphold strict academic and competitive integrity. The use of artificial intelligence (AI) tools, unauthorized collaboration, or any other forbidden resources during tryouts and competitions constitutes a direct violation of this policy.
+However, you are welcome (and encouraged!) to collaborate and use AI tools to review materials outside of formal testing or competition settings.
+
+#### 3. Violations and Reporting
+
+Any violation of this policy or other form of disruptive behavior, dishonesty, or misconduct may result in disciplinary action, up to and including removal from the SFBA / NorCal ARML team.
+
+**Reporting**: If you experience or witness a violation of this Code of Conduct, please report it immediately to any coach or at {{ email() }}.
+
 ### Withdrawing from the team
 
 Submitting payment for ARML represents a commitment to attend with your team. If you need to withdraw from the team after submitting payment, notify the coaching staff ({{ email() }}) immediately. We are able to offer refunds, minus processing fees, before April 27th. After that, we incur the costs of participation, and it will not be possible to provide refunds.
