@@ -1,6 +1,6 @@
 ---
 title: "2026 ARML Information"
-date: 2026-03-23
+date: 2026-03-25
 ---
 
 <!-- TODO: zoom link, tryout dates -->

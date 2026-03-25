@@ -1,6 +1,6 @@
 ---
 title: "2026 ARML Season Calendar"
-date: 2026-03-21
+date: 2026-03-24
 ---
 
 The 2026 ARML Competition will be held on May 29 -- May 30, 2026 at the

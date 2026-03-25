@@ -1,6 +1,6 @@
 ---
 title: "Shirt Design Contest (Due April 30)"
-date: 2026-03-21
+date: 2026-03-24
 ---
 
 In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. You are invited to submit design ideas, and we will put them to a vote in early May. Here are the rules:
