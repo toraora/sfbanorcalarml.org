@@ -2,8 +2,6 @@
 title: "Frequently Asked Questions"
 ---
 
-<!-- TODO: replace info sheetlink -->
-
 {{ outdated_banner(season="2026", after="2026-07-01") }}
 
 <!--
@@ -32,11 +30,11 @@ submitted payment, welcome to the team!
 
 ### How do I pay the ARML fee?
 
-The fee can be paid online on [ContestDojo](https://contestdojo.com/). You do not have to pay when you fill out the [Information Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A), but you have not committed to attending until you pay the fee.
+The fee can be paid online on [ContestDojo](https://contestdojo.com/). You do not have to pay when you fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6), but you have not committed to attending until you pay the fee.
 
 ### What if I'm not sure yet whether or not I want to go to ARML?
 
-Fill out the [Information Sheet](https://forms.gle/q7zA1AZEEsZDDnC6A) so we can send you updates and announcements. Do not submit payment on ContestDojo yet, though keep in mind that if you want to go to ARML, you must commit and pay by April 27th.
+Fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) so we can send you updates and announcements. Do not submit payment on ContestDojo yet, though keep in mind that if you want to go to ARML, you must commit and pay by April 27th.
 
 ### What if I have a conflict with part of the trip?
 

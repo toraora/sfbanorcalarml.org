@@ -2,7 +2,7 @@
 title: "Practices and Tryouts"
 ---
 
-<!-- TODO: update practice materials link and absence form -->
+<!-- TODO: update practice materials link -->
 
 {{ outdated_banner(season="2026", after="2026-07-01") }}
 
@@ -27,7 +27,7 @@ While everyone who's interested in ARML is able to participate, we will select m
 We will have three in-person practices this year, during weekends in May.
 
 If you need to miss a practice, get that absence excused by filling out the
-[Practice Absence Form](https://forms.gle/KXM5Sh6rF5qNfAxW6).
+[Practice Absence Form](https://forms.gle/5pD21AETNdfwDpFm6).
 
 ### Sacramento Area
 
