@@ -39,7 +39,7 @@ ARML Local will be held on Sunday, April 19th. See the [practices page](/practic
 
 ### Elite team selection
 
-We plan to select two or three "elite" teams from among our top performers. We will hold four elite team selection tryouts on ContestDojo; everyone is welcome and encouraged to attend, but participation in at least two is expected for those seeking a spot on an elite team. 
+We plan to select two or three "elite" teams from among our top performers. In addition to the in-person ARML Local, we will hold four more elite team selection tryouts online on ContestDojo; everyone is welcome and encouraged to attend, but participation in at least two of these five is expected for those seeking a spot on an elite team. 
 
 Elite teams will be selected based on a variety of factors, including but not limited to: scores on tryouts, past performance at ARML, present and past performance on AMC, AIME, and other national and regional contests (e.g. SMT, BMT, and other contests of this type), any other knowledge that the coaches have, and team leadership. All decisions of the coaches regarding team selection are final. Do not send emails requesting a spot on an elite team: everyone who is registered will be considered for elite teams.
 

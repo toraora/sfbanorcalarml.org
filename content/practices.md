@@ -2,8 +2,6 @@
 title: "Practices and Tryouts"
 ---
 
-<!-- TODO: update practice materials link -->
-
 {{ outdated_banner(season="2026", after="2026-07-01") }}
 
 ### Calendar
@@ -14,7 +12,7 @@ Check out our [Season Calendar](/news/season-2026/2026-calendar/) for the full s
 
 We will hold an online info session on Thursday, **April 16th**, at 6pm. This info session is intended for students and parents who are new to ARML.
 
-Register for the info session at [https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ](https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ) to receive the Zoom link.
+Register for the info session at <https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ> to receive the Zoom link.
 
 <!-- You can review the [recording](https://youtu.be/43vwjw4X4gk) and email us at
 {{ email() }} if you have any questions. -->
@@ -22,13 +20,15 @@ This info session will be recorded and made available online.
 
 ### Tryouts
 
-While everyone who's interested in ARML is able to participate, we will select multiple elite teams of top students who will be ranked against the top teams from other regions. To select these teams, we will hold online tryout opportunities. We will additionally consider ARML Local on April 19th to be a tryout as well. While attending tryouts is not required, we highly encourage attending at least two tryouts for anyone interested in being selected for an elite team. Even if you aren't interested in elite team selection, we still recommend attending tryouts for extra practice!
+While everyone who's interested in ARML is able to participate, we will select multiple elite teams of top students who will be ranked against the top teams from other regions. To select these teams, we will hold four online tryout opportunities. We will additionally consider ARML Local on April 19th to be a tryout as well, and scores from this in-person event will be weighed more heavily during team selection. While attending tryouts is not required, we highly encourage attending at least two of these five tryouts for anyone interested in being selected for an elite team. Even if you aren't interested in elite team selection, we still recommend attending tryouts for extra practice!
 
 ### Practices
 
 We will have three in-person Bay Area practices this year, during weekends in May.
+Practice attendance is highly recommended for everyone and required for students on
+elite teams.
 
-If you need to miss a practice, get that absence excused by filling out the
+If you really need to miss a practice, get that absence excused by filling out the
 [Practice Absence Form](https://forms.gle/5pD21AETNdfwDpFm6).
 
 ### Sacramento Area
@@ -48,25 +48,26 @@ the in-person practices.
 If you're participating in ARML from the Sacramento area, visit our
 [Sacramento page](/sac/) or contact
 {{ email(name="sacramento") }} for more information. Sacramento area students are not
-required to attend Bay Area practices and do not need to fill out Practice
-Absence Forms.
+required to attend Bay Area practices.
 
 ## Schedule
 
-This is a schedule of our events this spring. Note that [Sacramento practices](/sac/) are
-not listed here. Contact {{ email(name="sacramento") }} to learn more about practices
-held at UC Davis.
+This is a schedule of our events this spring. Aside from ARML Local, [Sacramento practices](/sac/) are
+not listed here. Contact {{ email(name="sacramento") }} to learn more about practices held at UC Davis.
 
 * **Info Session: April 16 (Thursday), 6pm-6:30pm**
     * Location: Online. 
-	* Zoom Registration: [https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ](https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ)
-* **ARML Local: April 19 (Sunday), 9am-1pm**
+	* Zoom Registration: <https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ>
+* **ARML Local (Sacramento / Davis): April 18 (Saturday), 12pm-3pm**
+    * Location: UC Davis, Shields Library room 162
+    * Google Maps: <https://maps.app.goo.gl/xyWfHHhvpzjJwrmY8>
+    * See our [Sacramento / Davis](/sac/) page for more information.
+* **ARML Local (Bay Area): April 19 (Sunday), 9am-1pm**
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
-    * Google Maps: [https://maps.app.goo.gl/n1exw4G9n4uY2VgVA](https://maps.app.goo.gl/n1exw4G9n4uY2VgVA)
+    * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
     * This session will be held in partnership with
       [AlphaStar](https://alphastar.academy/) and with the financial support of [Jane Street](https://janestreet.com/).
-    * If you are already participating in ARML Local with another organization, please do not attend this session.
-    * Sacramento will hold ARML Local at UC Davis at time TBD.
+    * If you are already participating in ARML Local at UC Davis or with another organization, please do not attend this session.
 * Tryout 1: April 26 (Sunday), 4pm-5pm, online
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo](https://contestdojo.com/) accounts at 4pm. Students should
@@ -97,12 +98,12 @@ held at UC Davis.
       account email address in order to request guest access.
 * Bay Area Practice 1: May 3 (Sunday), noon-5pm
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
-    * Google Maps: [https://maps.app.goo.gl/n1exw4G9n4uY2VgVA](https://maps.app.goo.gl/n1exw4G9n4uY2VgVA)
+    * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
 * Bay Area Practice 2: May 9 (Saturday), noon-5pm
     * Location: To be announced
 * Bay Area Practice 3: May 16 (Saturday), noon-5pm
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
-    * Google Maps: [https://maps.app.goo.gl/n1exw4G9n4uY2VgVA](https://maps.app.goo.gl/n1exw4G9n4uY2VgVA)
+    * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
 * ARML: May 29 -- May 30 (Friday -- Saturday)
     * Location: University of Nevada, Reno
 
