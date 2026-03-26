@@ -28,24 +28,24 @@ As a summary: First, fill out the [Information Sheet](https://forms.gle/oqBLJ7P3
 Check out our [Season Calendar](/news/season-2026/2026-calendar/) for the full schedule.
 
 We will hold an online info session for those new to ARML on Thursday, April 16th,
-at 6pm. Register for the info session at [https://us02web.zoom.us/meeting/register/zRV2XvwZTWCWXAZyUqhteg](https://us02web.zoom.us/meeting/register/zRV2XvwZTWCWXAZyUqhteg) to receive the Zoom link.
+at 6pm. Register for the info session at [https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ](https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ) to receive the Zoom link.
 
 In addition, we will hold ARML Local on Sunday, April 19, tentatively 9am-1pm in
 San Jose. Everyone is welcome to attend ARML Local, regardless of whether you're
 planning to come to Reno with the team. No fees are
 required for ARML Local.
 
-We will hold four online elite team tryouts on April 26 and May 3. We will
-also consider ARML Local as a tryout opportunity. While attending these
-activities is optional, we highly encourage attending at least two tryouts for
-anyone interested in being selected for an elite team.
+We will hold four online elite team tryouts on April 26, April 28, April 30, and
+May 2. We will also consider ARML Local as a tryout opportunity. While attending
+these tryouts is optional, we highly encourage attending at least two tryouts
+for anyone interested in being selected for an elite team.
 
 Like last year, we will hold three practices on weekends in May. Each practice
 will include time to work in teams, as well as some fun math activities for
-everyone to get to know each other. The details are all available at
-https://sfbanorcalarml.org/practices/. We are still working on locations for
-some practices. If you'd like to help bring practice to a location near you,
-please get in touch!
+everyone to get to know each other. The details are all available on our
+[practices page](https://sfbanorcalarml.org/practices/). We are still working on
+locations for some practices. If you'd like to help bring practice to a location
+near you, please get in touch!
 
 **Communications**
 
