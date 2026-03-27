@@ -31,7 +31,7 @@ at 6pm. Register for the info session at <https://us02web.zoom.us/meeting/regist
 In addition, we will hold ARML Local on Sunday, April 19, tentatively 9am-1pm in
 San Jose. Everyone is welcome to attend ARML Local, regardless of whether you're
 planning to come to Reno with the team. No fees are required for ARML Local.
-Sacramento and Davis area students can attend ARML Local at UC Davis on April 18
+Sacramento and Davis area students can attend ARML Local at UC Davis on April 19
 -- check the [Sacramento](/sac/) page for more details.
 
 We will hold four online elite team tryouts on April 26, April 28, April 30, and

@@ -58,16 +58,17 @@ not listed here. Contact {{ email(name="sacramento") }} to learn more about prac
 * **Info Session: April 16 (Thursday), 6pm-6:30pm**
     * Location: Online. 
 	* Zoom Registration: <https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ>
-* **ARML Local (Sacramento / Davis): April 18 (Saturday), 12pm-3pm**
-    * Location: UC Davis, Shields Library room 162
-    * Google Maps: <https://maps.app.goo.gl/xyWfHHhvpzjJwrmY8>
-    * See our [Sacramento / Davis](/sac/) page for more information.
 * **ARML Local (Bay Area): April 19 (Sunday), 9am-1pm**
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
     * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
     * This session will be held in partnership with
       [AlphaStar](https://alphastar.academy/) and with the financial support of [Jane Street](https://janestreet.com/).
     * If you are already participating in ARML Local at UC Davis or with another organization, please do not attend this session.
+* **ARML Local (Sacramento / Davis): April 19 (Sunday), 12pm-3pm**
+    * Location: UC Davis, Shields Library room 162
+    * Google Maps: <https://maps.app.goo.gl/xyWfHHhvpzjJwrmY8>
+    * See our [Sacramento / Davis](/sac/) page for more information.
+    * If you are already participating in ARML Local in the Bay Area or with another organization, please do not attend this session.
 * Tryout 1: April 26 (Sunday), 4pm-5pm, online
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo](https://contestdojo.com/) accounts at 4pm. Students should
