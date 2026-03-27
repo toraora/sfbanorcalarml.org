@@ -18,7 +18,7 @@ Fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) if you hav
 
 On [ContestDojo](https://contestdojo.com/), create or log into a *student*
 account. Under "Events Accepting Registrations", find "SFBA/NorCal ARML 2026"
-and click on the "Register" button. Select "Register As Independent Student" and
+and click on the "Register" button. Select "Register Without A Coach" and
 complete the corresponding form. Please use the same name and email address as
 you did in the Information Sheet. You will pay the ARML fee as part of this
 process.
