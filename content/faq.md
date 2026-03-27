@@ -66,4 +66,4 @@ Students arrive Friday afternoon. Team meetings and practices are held after arr
 
 ### What about t-shirts?
 
-As is ARML tradition, we design a team t-shirt every year. Students (and chaperones!) are invited to submit designs for the t-shirt, which will be voted on by the entire team. Designs are due April 30th -- see [detailed instructions here](/news/season-2026/shirt-design/).
+As is ARML tradition, we design a team t-shirt every year. Students (and chaperones!) are invited to submit designs for the t-shirt, which will be voted on by the entire team. Designs are due April 30th -- see [detailed instructions here](/news/season-2026/shirt-design/). Past shirt designs can be found in our [Shirt Gallery](/shirts/).

@@ -5,6 +5,7 @@ title: "Shirt Design Archive"
 If you have shirts from any of the years that are missing, please
 reach out to us at {{ email() }}!
 
+{{ shirt_archive(year="2025", coming_soon=true) }}
 {{ shirt_archive(year="2024") }}
 {{ shirt_archive(year="2023") }}
 {{ shirt_archive(year="2022") }}

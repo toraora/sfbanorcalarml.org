@@ -66,7 +66,7 @@ there to see anything that you might have missed.
 
 **T-Shirt Design Information**
 
-In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. You are invited to submit design ideas, and we will put them to a vote in early May. Here are the rules:
+In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. You are invited to submit design ideas, and we will put them to a vote in early May. Past shirt designs can be found in our [Shirt Gallery](/shirts/). Here are the rules:
 
 - T-shirt designs must be submitted by April 30th.
 
