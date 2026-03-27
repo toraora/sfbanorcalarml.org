@@ -17,7 +17,7 @@ reach out to us at {{ email() }}!
 {{ shirt_archive(year="2016") }}
 {{ shirt_archive(year="2015") }}
 {{ shirt_archive(year="2014") }}
-{{ shirt_archive(year="2013", coming_soon=true) }}
-{{ shirt_archive(year="2012", coming_soon=true) }}
+{{ shirt_archive(year="2013") }}
+{{ shirt_archive(year="2012") }}
 {{ shirt_archive(year="2011") }}
 {{ shirt_archive(year="2010") }}
