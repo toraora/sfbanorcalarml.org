@@ -1,5 +1,6 @@
 node_modules/
-result/
+result*
+deploy*
 public/
 static/processed_images/
 static/style.css

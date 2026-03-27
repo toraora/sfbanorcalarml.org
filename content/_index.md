@@ -6,8 +6,7 @@ description = "Our organization brings several teams of 15 talented math student
 Welcome to the SFBA / NorCal ARML website!
 Learn more about us at the [About](/about) page.
 
-## **Registration for the 2026 season is now open!**
-
+**Registration for the 2026 season is now open!**
 Information about registration is available on our [Join](/join) page.
 The last day to register is April 27th.
 Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar).

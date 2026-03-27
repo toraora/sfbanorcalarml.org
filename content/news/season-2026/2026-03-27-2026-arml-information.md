@@ -1,12 +1,12 @@
 ---
 title: "2026 ARML Information"
-date: 2026-03-25
+date: 2026-03-27
 ---
 
 Dear ARML Team,
 
 Welcome to ARML 2026! This email is going out to everyone who participated in the SFBA / NorCal ARML Team last year, as well as anyone else we think might be interested in joining the team for 2026. It contains a LOT of information about the logistics, timing, and details of this year's ARML competition, as well as several action items for you.
-
+ 
 **New for 2026**
 
 - The registration fee for this season has been raised slightly to $410. All registration fees go directly towards running practices, arranging travel, and ARML competition fees.
