@@ -14,9 +14,9 @@ Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar
 **Important upcoming dates**
 
 - April 16 at 6PM: [Zoom info session](https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ)
-- April 19: [ARML Local (Bay Area)](/practices/)
+- April 19: [ARML Local (Bay Area)](/practices/#schedule)
 - April 19: [ARML Local (Sacramento / Davis)](/sac/)
-- April 26: [Online tryout #1](/practices/)
+- April 26: [Online tryout #1](/practices/#schedule)
 - April 27: [Registration deadline](/join/)
 
 

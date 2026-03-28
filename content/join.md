@@ -10,13 +10,13 @@ There are four steps to joining the SFBA/NorCal ARML team. If you are interested
 
 Read the [policy section](/policies/) carefully, as you will be required to agree to it when paying fees. You may skim the [FAQ section](/faq/) if you are already familiar with how ARML works.
 
-### 2. Fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6).
+### 2. Fill out the [Information Sheet].
 
-Fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) if you have any interest at all in ARML. It does not commit you to coming to ARML, nor does it reserve your spot on the team. Once you fill out the form, we will add you to the team email list, where we will send details about practices and important updates about the competition. Do this before paying ARML fees.
+Fill out the [Information Sheet] if you have any interest at all in ARML. It does not commit you to coming to ARML, nor does it reserve your spot on the team. Once you fill out the form, we will add you to the team email list, where we will send details about practices and important updates about the competition. Do this before paying ARML fees.
 
-### 3. Pay the ARML fee on [ContestDojo](https://contestdojo.com/).
+### 3. Pay the ARML fee on [ContestDojo].
 
-On [ContestDojo](https://contestdojo.com/), create or log into a *student*
+On [ContestDojo], create or log into a *student*
 account. Under "Events Accepting Registrations", find "SFBA/NorCal ARML 2026"
 and click on the "Register" button. Select "Register Without A Coach" and
 complete the corresponding form. Please use the same name and email address as
@@ -47,5 +47,8 @@ We expect that all students who complete steps 1, 2, and 3 by April 27th will be
 ## Coaches and Parent Volunteers
 
 If you are an adult (parent, teacher, college student, alumnus, etc.) interested in helping run practices
-or chaperoning the ARML trip, fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6).
+or chaperoning the ARML trip, fill out the [Information Sheet].
 *Do not register on ContestDojo or pay any fees.* Coaching staff will contact you with more information.
+
+[ContestDojo]: https://contestdojo.com/
+[Information Sheet]: https://forms.gle/oqBLJ7P33sA5yW1x6

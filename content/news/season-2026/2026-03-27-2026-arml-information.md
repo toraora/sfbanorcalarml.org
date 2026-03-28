@@ -11,15 +11,15 @@ Welcome to ARML 2026! This email is going out to everyone who participated in th
 
 - The registration fee for this season has been raised slightly to $410. All registration fees go directly towards running practices, arranging travel, and ARML competition fees.
 - In prior years we've held two online tryouts. To give students more time flexibility, this season we will hold four online tryouts using the same format, in addition to ARML Local for a total of five. We ask that students aiming for elite team selection complete at least two of them (of course, you are encouraged to do more).
-- We are more strongly weighing performance at in-person competitions like ARML Local, BMT, SMT, etc. for elite team selection. When filling out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6), please provide this information to the best of your knowledge.
+- We are more strongly weighing performance at in-person competitions like ARML Local, BMT, SMT, etc. for elite team selection. When filling out the [Information Sheet], please provide this information to the best of your knowledge.
 - Previously, non-elite team selection was primarily based on region. This season, we will additionally take into account teammate preference and age.
-- For students in 6th grade or below, please fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) and then contact us at {{ email() }} before paying the registration fee.
+- For students in 6th grade or below, please fill out the [Information Sheet] and then contact us at {{ email() }} before paying the registration fee.
 
 **How to Sign Up**
 
 If you're planning on going to ARML this year, you'll need to complete two steps by end of day on April 27. Those steps are laid out on our website at <http://sfbanorcalarml.org/join/>.
 
-As a summary: First, fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) – you can do this even if you're not sure you want to go to Reno; it just gets you on our email list so you can stay informed. Second, once you're sure you're going, pay the fee on ContestDojo. Similar to last year, we'll handle permission slips via electronic signatures in May.
+As a summary: First, fill out the [Information Sheet] – you can do this even if you're not sure you want to go to Reno; it just gets you on our email list so you can stay informed. Second, once you're sure you're going, pay the fee on ContestDojo. Similar to last year, we'll handle permission slips via electronic signatures in May.
 
 **Practice Schedule**
 
@@ -57,7 +57,7 @@ Emails to this address are seen by multiple members of the coaching staff and
 are the best way to ensure that you get an answer as quickly as possible.
 
 Also, if you'd like to continue receiving emails and information about ARML
-2026, make sure you fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) to get added to this year's
+2026, make sure you fill out the [Information Sheet] to get added to this year's
 email list. All further communications after this one will go to this year's
 list.
 
@@ -88,7 +88,7 @@ Send your designs to {{ email() }} by April 30th. If you would like help with yo
 
 To summarize, here's what you should do right now if you're going to ARML this year:
 
-- Sign up for ARML! Fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) and pay the fee on ContestDojo by April 27th, and your spot on the team will be guaranteed.
+- Sign up for ARML! Fill out the [Information Sheet] and pay the fee on ContestDojo by April 27th, and your spot on the team will be guaranteed.
 
 - Tell your friends to sign up for ARML too.
 
@@ -99,3 +99,6 @@ To summarize, here's what you should do right now if you're going to ARML this y
 We're looking forward to seeing you all for another fantastic year of ARML!
 
 –Moor and the rest of the SFBA / NorCal coaching staff
+
+[ContestDojo]: https://contestdojo.com/
+[Information Sheet]: https://forms.gle/oqBLJ7P33sA5yW1x6

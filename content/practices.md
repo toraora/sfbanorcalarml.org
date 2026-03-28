@@ -71,28 +71,28 @@ not listed here. Contact {{ email(name="sacramento") }} to learn more about prac
     * If you are already participating in ARML Local in the Bay Area or with another organization, please do not attend this session.
 * Tryout 1: April 26 (Sunday), 4pm-5pm, online
     * Location: Online. The tryout will be posted on registered students'
-      [ContestDojo](https://contestdojo.com/) accounts at 4pm. Students should
+      [ContestDojo] accounts at 4pm. Students should
       start no later than 4:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * Tryout 2: April 28 (Tuesday), 6pm-7pm, online
     * Location: Online. The tryout will be posted on registered students'
-      [ContestDojo](https://contestdojo.com/) accounts at 6pm. Students should
+      [ContestDojo] accounts at 6pm. Students should
       start no later than 6:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * Tryout 3: April 30 (Thursday), 7pm-8pm, online
     * Location: Online. The tryout will be posted on registered students'
-      [ContestDojo](https://contestdojo.com/) accounts at 7pm. Students should
+      [ContestDojo] accounts at 7pm. Students should
       start no later than 7:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
 * Tryout 4: May 2 (Saturday), 11am-noon, online
     * Location: Online. The tryout will be posted on registered students'
-      [ContestDojo](https://contestdojo.com/) accounts at 11am. Students should
+      [ContestDojo] accounts at 11am. Students should
       start no later than 11:10am in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
@@ -113,3 +113,5 @@ not listed here. Contact {{ email(name="sacramento") }} to learn more about prac
 Practice materials will be posted here after each Bay Area practice.
 
 [2026 Bay Area Practice Materials](https://docs.google.com/document/d/e/2PACX-1vStdf3lWm0h7-_JBg5c-mLz_PbWk3EJXKVihzZf_m5Rw7to5BpgZPKVAPkyyRNavqVHJaQBhhfTYFE8/pub)
+
+[ContestDojo]: https://contestdojo.com/

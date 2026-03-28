@@ -35,7 +35,7 @@ Please note that communication about withdrawals and replacements is ONLY accept
 
 ### ARML Local
 
-ARML Local will be held on Sunday, April 19th. See the [practices page](/practices/) for more information. Participation is expected for students interested in being selected for elite teams, but is otherwise optional. All students from our region who are eligible to participate in ARML Local may do so with our team, regardless of whether they have registered on ContestDojo or paid any fees. No fee is required for students to participate in ARML Local through our organization. Students are also allowed to take ARML Local as part of another Bay Area organization; if you do this, please send your score report to {{ email() }} so that we can include your score as part of the elite team selection process.
+ARML Local will be held on Sunday, April 19th. See the [practices page](/practices/#schedule) for more information. Participation is expected for students interested in being selected for elite teams, but is otherwise optional. All students from our region who are eligible to participate in ARML Local may do so with our team, regardless of whether they have registered on ContestDojo or paid any fees. No fee is required for students to participate in ARML Local through our organization. Students are also allowed to take ARML Local as part of another Bay Area organization; if you do this, please send your score report to {{ email() }} so that we can include your score as part of the elite team selection process.
 
 ### Elite team selection
 

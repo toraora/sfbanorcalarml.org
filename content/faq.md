@@ -21,20 +21,20 @@ late registrations after this date.
 
 ### How do I sign up as a chaperone?
 
-Follow the instructions at the bottom of our [Join](/join/) page.
+Follow the instructions at the bottom of our [Join](/join/#coaches-and-parent-volunteers) page.
 
 ### I followed all the sign-up instructions and paid the fee prior to April 27th. Am I accepted onto the team?
 
-If your [ContestDojo](https://contestdojo.com/) account shows that you have
+If your [ContestDojo] account shows that you have
 submitted payment, welcome to the team!
 
 ### How do I pay the ARML fee?
 
-The fee can be paid online on [ContestDojo](https://contestdojo.com/). You do not have to pay when you fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6), but you have not committed to attending until you pay the fee.
+The fee can be paid online on [ContestDojo]. You do not have to pay when you fill out the [Information Sheet], but you have not committed to attending until you pay the fee.
 
 ### What if I'm not sure yet whether or not I want to go to ARML?
 
-Fill out the [Information Sheet](https://forms.gle/oqBLJ7P33sA5yW1x6) so we can send you updates and announcements. Do not submit payment on ContestDojo yet, though keep in mind that if you want to go to ARML, you must commit and pay by April 27th.
+Fill out the [Information Sheet] so we can send you updates and announcements. Do not submit payment on ContestDojo yet, though keep in mind that if you want to go to ARML, you must commit and pay by April 27th.
 
 ### What if I have a conflict with part of the trip?
 
@@ -42,7 +42,7 @@ In order to participate in ARML, you must be present for all the rounds. If you 
 
 ### I signed up but can't go to ARML anymore. What do I do?
 
-Refer to the section in the [Team Policies](/policies/) about withdrawing from the team. Your ARML fees cannot be refunded, and withdrawing may have a negative effect on your team placement in future years.
+Refer to the section in the [Team Policies](/policies/#withdrawing-from-the-team) about withdrawing from the team. Your ARML fees cannot be refunded, and withdrawing may have a negative effect on your team placement in future years.
 
 ### Are my contest scores good enough to attend ARML?
 
@@ -67,3 +67,6 @@ Students arrive Friday afternoon. Team meetings and practices are held after arr
 ### What about t-shirts?
 
 As is ARML tradition, we design a team t-shirt every year. Students (and chaperones!) are invited to submit designs for the t-shirt, which will be voted on by the entire team. Designs are due April 30th -- see [detailed instructions here](/news/season-2026/shirt-design/). Past shirt designs can be found in our [Shirt Gallery](/shirts/).
+
+[ContestDojo]: https://contestdojo.com/
+[Information Sheet]: https://forms.gle/oqBLJ7P33sA5yW1x6
