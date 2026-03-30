@@ -14,6 +14,7 @@ Welcome to ARML 2026! This email is going out to everyone who participated in th
 - We are more strongly weighing performance at in-person competitions like ARML Local, BMT, SMT, etc. for elite team selection. When filling out the [Information Sheet], please provide this information to the best of your knowledge.
 - Previously, non-elite team selection was primarily based on region. This season, we will additionally take into account teammate preference and age.
 - For students in 6th grade or below, please fill out the [Information Sheet] and then contact us at {{ email() }} before paying the registration fee.
+- Jane Street is joining us as a sponsor this season, and we thank them for their generous support of our team. Learn more about Jane Street [here](https://janestreet.com).
 
 **How to Sign Up**
 
