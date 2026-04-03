@@ -18,9 +18,21 @@ Register for the info session at <https://us02web.zoom.us/meeting/register/Qz5fx
 {{ email() }} if you have any questions. -->
 This info session will be recorded and made available online.
 
+### ARML Local
+
+ARML Local is a competition written by the official ARML organizers that is run regionally across the country. It typically lands on a weekend in mid to late April. Teams and individuals are ranked across all regions, and there are cash prizes for top teams and the top individual.
+
+SFBA / NorCal ARML hosts a site in the Bay Area and another in Davis open to all students at no cost, and this is a great way to get a feel for what ARML will be like, get some practice, and meet potential teammates.
+
+This season, ARML Local will be held both in the Bay Area and in Davis on April 19th. No pre-registration is required; simply show up and we'll form teams on the spot. See the [Schedule](/practices/#schedule) section below for complete details on time, location, and logistics.
+
 ### Tryouts
 
-While everyone who's interested in ARML is able to participate, we will select multiple elite teams of top students who will be ranked against the top teams from other regions. To select these teams, we will hold four online tryout opportunities. We will additionally consider ARML Local on April 19th to be a tryout as well, and scores from this in-person event will be weighed more heavily during team selection. While attending tryouts is not required, we highly encourage attending at least two of these five tryouts for anyone interested in being selected for an elite team. Even if you aren't interested in elite team selection, we still recommend attending tryouts for extra practice!
+While everyone who's interested in ARML is able to participate, we will select multiple elite teams of top students who will be ranked against the top teams from other regions. To select these teams, we will hold four online tryout opportunities. The full schedule and instructions for access are listed in the [Schedule](/practices/#schedule) below.
+
+We will additionally consider ARML Local on April 19th to be a tryout as well, and scores from this in-person event will be weighted more heavily during team selection. We understand that there may be conflicts with other events (e.g. SMT Online, Berkeley Physics Tournament) and will take that into account.
+
+While attending tryouts is not required, we highly encourage attending at least two of these five tryouts for anyone interested in being selected for an elite team. Even if you aren't interested in elite team selection, we still recommend attending tryouts for extra practice!
 
 ### Practices
 

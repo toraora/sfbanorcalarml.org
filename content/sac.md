@@ -21,7 +21,7 @@ There are independent weekly practices for students from the Sacramento area.
 Practices will be at UC Davis, in Shields Library room 162, **every Saturday, noon to 3pm**, starting on April 4.
 
 There will be no practice on April 18 due to the Stanford Math Tournament.
-We will instead run [ARML Local](/practices/) on **Sunday**, April 19, at the same time and place.
+We will instead run [ARML Local](/practices/#arml-local) on **Sunday**, April 19, at the same time and place.
 
 If you're participating in ARML from the Sacramento area, contact
 {{ email(name="sacramento") }} for more information. Sacramento area students are not
