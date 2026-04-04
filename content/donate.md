@@ -2,7 +2,7 @@
 title: "Donate to SFBA/NorCal ARML"
 ---
 
-The SFBA/NorCal ARML Team is hosted by Lemniscate Education, a 501(c)(3)
+The SFBA/NorCal ARML Team is hosted by [Lemniscate Education](https://lemniscate.education), a 501(c)(3)
 non-profit organization. Contributions to the team are tax-deductible.
 
 {{ donate() }}

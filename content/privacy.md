@@ -4,7 +4,7 @@ title: "Privacy Policy"
 
 *Last updated: April 3, 2026*
 
-SFBA / NorCal ARML is operated by Lemniscate Education, a California-based 501(c)(3) non-profit organization ("we", "us", or "our"). This Privacy Policy describes how we collect, use, and protect information when you visit our website or participate in our programs.
+SFBA / NorCal ARML is operated by [Lemniscate Education](https://lemniscate.education), a California-based 501(c)(3) non-profit organization ("we", "us", or "our"). This Privacy Policy describes how we collect, use, and protect information when you visit our website or participate in our programs.
 
 ### Information We Collect
 
