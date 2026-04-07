@@ -1,0 +1,11 @@
+<div class="bg-background-highlight dark:bg-background-highlight-dark hover:bg-background-highlight-hover dark:hover:bg-background-highlight-hover-dark border border-content-tertiary dark:border-content-tertiary-dark not-prose pl-4 pr-4 rounded-xl flex flex-col gap-2">
+  {% if title %}
+  <p class="uppercase text-xs text-gray-500 dark:text-gray-400 flex gap-2 items-center">
+    <i class="bi bi-exclamation-circle-fill"></i>
+    <span>{{ title }}</span>
+  </p>
+  {% endif %}
+  <p class="text-base font-medium text-content-primary dark:text-content-primary-dark">
+    {{ content | markdown | safe }}
+  </p>
+</div>

@@ -4,6 +4,8 @@ title: "Sacramento / Davis Information"
 
 {{ outdated_banner(season="2026", after="2026-07-01") }}
 
+{{ news_banner(content="The first practice for Sacramento / Davis will be on **Saturday, April 11**.") }}
+
 ## Joining the Team
 
 To join the team, see the [Joining the Team](/join/) page and follow the
@@ -18,7 +20,7 @@ For information about ARML in the Sacramento / Davis region, contact
 
 There are independent weekly practices for students from the Sacramento area. 
 
-Practices will be at UC Davis, in Shields Library room 162, **every Saturday, noon to 3pm**, starting on April 4.
+Practices will be at UC Davis, in Shields Library room 162, **every Saturday, noon to 3pm**, starting on April 11.
 
 There will be no practice on April 18 due to the Stanford Math Tournament.
 We will instead run [ARML Local](/practices/#arml-local) on **Sunday**, April 19, at the same time and place.
