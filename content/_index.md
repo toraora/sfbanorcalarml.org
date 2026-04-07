@@ -21,6 +21,5 @@ Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar
 - April 27: [Registration deadline](/join/)
 
 
-To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR) 
-and join our mailing list [here](/interest-form).
+To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR).
 If you have any questions, please contact us at {{ email() }}.
