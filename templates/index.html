@@ -59,16 +59,19 @@
 {% block content %}
 
 {# News post notification, if there is one #}
+
 <div class="flex flex-col gap-4">
+  <!--
   {{ self::post_notification(
     title="Registration for the 2026 season is now open!",
     content="Click here for instructions on how to register. The last day to register is April 27th.",
     href="/join/",
     class="bg-background-highlight dark:bg-background-highlight-dark hover:bg-background-highlight-hover dark:hover:bg-background-highlight-hover-dark border border-content-tertiary dark:border-content-tertiary-dark",
   ) }}
+  -->
 
   {% set news_section = get_section(path="news/season-2026/_index.md") %}
-  {% set news_posts = news_section.pages | slice(end=1) %}
+  {% set news_posts = news_section.pages | slice(end=2) %}
   {% for news_post in news_posts %}
   {{ self::post_notification(
     title=news_post.title,
