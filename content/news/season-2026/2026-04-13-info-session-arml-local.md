@@ -20,7 +20,7 @@ ARML Local is this Sunday -- it's a great (and free!) opportunity to get a taste
 
 Please arrive on-time as we'll need to form teams on the spot for ARML Local.
 
-Please see our [ARML Local post](/news/season-2026/2026-04-13-arml-local/) for more information, including some FAQs.
+Please see our [ARML Local post](/news/season-2026/arml-local/) for more information, including some FAQs.
 
 ### Registration and Payment Deadline
 
