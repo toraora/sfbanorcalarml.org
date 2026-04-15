@@ -38,7 +38,7 @@ If you live in the Sacramento / Davis area, there are separate weekly practices 
 
 ### T-Shirt Designs
 
-In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. You are invited to submit design ideas, and we will put them to a vote in early May. Designs should be submitted by April 30. Please see [this post](/news/season-2026/2026-03-27-shirt-design/) for more information.
+In a venerable ARML tradition, we'll be designing a distinctive team t-shirt. You are invited to submit design ideas, and we will put them to a vote in early May. Designs should be submitted by April 30. Please see [this post](/news/season-2026/shirt-design/) for more information.
 
 ### Action Items
 
