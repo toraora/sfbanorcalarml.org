@@ -12,11 +12,14 @@ Check out our [Season Calendar](/news/season-2026/2026-calendar/) for the full s
 
 We will hold an online info session on Thursday, **April 16th**, at 6pm. This info session is intended for students and parents who are new to ARML.
 
+<!--
 Register for the info session at <https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ> to receive the Zoom link.
 
-<!-- You can review the [recording](https://youtu.be/43vwjw4X4gk) and email us at
-{{ email() }} if you have any questions. -->
 This info session will be recorded and made available online.
+-->
+
+You can review the [recording](https://youtu.be/ex0vKmUNZpY) and email us at
+{{ email() }} if you have any questions.
 
 ### ARML Local
 
