@@ -6,11 +6,23 @@ title = "About our Team"
 
 ARML (American Regions Math League) is the premier national competition for math teams, and is the largest, most prestigious, and probably most fun on-site math competition in the United States. Our organization brings several teams of 15 talented math students to represent Northern California and the San Francisco Bay Area at ARML each year, and we would like to invite interested students to register to be on this year's team. This year's ARML meet is scheduled for May 29 -- May 30, 2026 and will be held at University of Nevada, Reno.
 
+## Competition Format
+
+The ARML competition has four rounds, with a maximum team score of 300 points. Half of the points come from individual performance and half from team-based rounds.
+
+**Team Round** (20 minutes, 50 points) — The entire 15-member team works together on 10 questions, worth 5 points each.
+
+**Power Question** (1 hour, 50 points) — The whole team works together on a series of interrelated proof-style questions, graded on accuracy, efficiency, and style.
+
+**Individual Round** (50 minutes, 150 points) — Each team member works alone on 10 questions, administered in pairs with 10 minutes per pair. Each correct answer earns the team 1 point, for a maximum of 150 points across all 15 members.
+
+**Relay Round** (two relays, 50 points) — Team members split into groups of 3. Each student passes their answer to the next person, whose problem depends on that answer. Only the last person's answer counts. Each relay lasts 6 minutes, with a bonus for turning in a correct answer at the 3-minute mark (5 points) versus the 6-minute mark (3 points). With five groups of 3 and two relays, the maximum is 50 points.
+
+ARML also holds a speed-based **Tiebreaker** for the top individual scorers.
+
 ## About ARML
 
-The American Regions Mathematics League started in 1976 for the purpose of providing a national (or at that time, regional) competition for the brightest mathematical minds in the nation's high schools. Teams are generally organized on the state level, but some cities (e.g. New York and Chicago) send their own teams. The annual ARML meet is normally held at sites in Pennsylvania, Iowa, Nevada, and Alabama, and students from about half the states and a few foreign countries attend the contest. The awards ceremony is carried on simultaneously at the four sites, and students at the four sites compete against each other for awards. The ARML contest is held each year on the Saturday after Memorial Day, and while the contest is intended for high school students, some exceptional junior high students show up each year. Seniors who graduate in the current school year are eligible to compete.
-
-The ARML competition is comprised of four parts. First is a 20-minute Team Round consisting of 10 questions which the entire 15-member team works on together. The team test is worth 5 points per question for a maximum of 50 points. Next comes the Power Question, a one-hour round where the whole team works together to answer a series of interrelated proof-style questions. The Power Question is graded on accuracy, efficiency, and style, and is worth 50 points. Next is the Individual Round which consists of 10 questions administered in pairs, with 10 minutes allotted to work on each pair of questions. Each correct answer earns the team one point, so maximum is 15 times 10 or 150 points. Finally, the Relay Round splits students into groups of 3, with each student passing their answer back to the student behind them. The second and third students in the group have a problem that depends on the answer they receive, and only the third student turns in the group’s final answer. There are two relays, lasting 6 minutes each. Each 3-member team has an opportunity to turn answers in at 3 minutes and at 6 minutes, and only the answer given by the third person counts. A team receives 5 points if the correct answer is turned in at 3 minutes, and 3 points at 6 minutes, for a total of 50 points possible between the two relay questions. ARML also conducts a speed-based Tiebreaker for the students with the top individual scores.
+The American Regions Mathematics League started in 1976 for the purpose of providing a national (or at that time, regional) competition for the brightest mathematical minds in the nation's high schools. Teams are generally organized on the state level, but some cities (e.g. New York and Chicago) send their own teams. The annual ARML meet is normally held at sites in Pennsylvania, Iowa, Nevada, and Alabama, and students from about half the states and a few foreign countries attend the contest. The awards ceremony is carried on simultaneously at the four sites, and students at the four sites compete against each other for awards. The ARML contest is held each year on the Friday and Saturday after Memorial Day, with team and proof rounds on Friday and individual and relay rounds on Saturday. While the contest is intended for high school students, some exceptional junior high students show up each year. Seniors who graduate in the current school year are eligible to compete.
 
 For more information about ARML, you can visit the official ARML website at http://www.arml.com. Do NOT register for ARML at that site; to participate in ARML you need to sign up through your regional team.
 
