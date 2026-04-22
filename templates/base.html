@@ -90,7 +90,14 @@
     >
       {% block header %}
       <header class="flex flex-col gap-4 text-center text-content-primary dark:text-content-primary-dark">
-        <p class="text-2xl font-bold"><a href="/">SFBA / NorCal ARML</a></p>
+        <div class="relative flex items-center justify-center">
+          <p class="text-2xl font-bold"><a href="/">SFBA / NorCal ARML</a></p>
+          <button id="search-open" class="absolute right-0 flex items-center gap-2 p-2 hover:opacity-80 transition-opacity text-content-secondary dark:text-content-secondary-dark md:border md:border-gray-300 md:dark:border-gray-600 md:rounded-lg md:px-3 md:py-1.5 md:text-sm md:text-content-tertiary md:dark:text-content-tertiary-dark" title="Search (/)">
+            <i class="bi bi-search md:text-xs"></i>
+            <span class="hidden md:inline">Search</span>
+            <kbd class="hidden md:inline text-xs px-1.5 py-0.5 rounded border border-gray-300 dark:border-gray-600 ml-1">/</kbd>
+          </button>
+        </div>
 
         <nav
           id="navbar"
@@ -155,12 +162,40 @@
       {% endblock %}
     </div>
 
+    <div id="search-modal" class="hidden fixed inset-0 z-50 flex items-start justify-center pt-[10vh] md:pt-[12vh]">
+      <div id="search-backdrop" class="absolute inset-0 bg-black/50"></div>
+      <div class="relative w-full max-w-lg md:max-w-2xl mx-4 bg-background-primary dark:bg-background-primary-dark border border-gray-200 dark:border-gray-700 rounded-xl shadow-2xl overflow-hidden">
+        <div class="flex items-center gap-3 px-4 py-3 md:px-5 md:py-4 border-b border-gray-200 dark:border-gray-700">
+          <i class="bi bi-search text-content-tertiary dark:text-content-tertiary-dark md:text-xl"></i>
+          <input
+            id="search-input"
+            type="text"
+            placeholder="Search..."
+            autocomplete="off"
+            class="flex-1 bg-transparent outline-none text-content-primary dark:text-content-primary-dark placeholder:text-content-tertiary dark:placeholder:text-content-tertiary-dark md:text-lg"
+          />
+          <kbd class="hidden md:inline text-xs px-1.5 py-0.5 rounded border border-gray-300 dark:border-gray-600 text-content-tertiary dark:text-content-tertiary-dark">esc</kbd>
+        </div>
+        <div id="search-results" class="max-h-80 md:max-h-[28rem] overflow-y-auto">
+          <p id="search-empty" class="px-4 py-8 text-center text-sm text-content-tertiary dark:text-content-tertiary-dark">
+            Type to search...
+          </p>
+        </div>
+        <label class="flex items-center gap-2 px-4 py-2 md:px-5 border-t border-gray-200 dark:border-gray-700 text-xs text-content-tertiary dark:text-content-tertiary-dark cursor-pointer select-none">
+          <input id="search-include-archive" type="checkbox" class="accent-content-tertiary" />
+          Include old news archive
+        </label>
+      </div>
+    </div>
+
     <script type="module">
       import twemoji from "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/+esm";
       twemoji.parse(document.body, {
         className: "inline w-[1.25em] h-[1.25em] not-prose",
         base: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/",
       });
+
+      import "/js/search.js";
     </script>
   </body>
 </html>

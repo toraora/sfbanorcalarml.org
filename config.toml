@@ -5,9 +5,21 @@ base_url = "/"
 compile_sass = false
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
 taxonomies = [{ name = "tags", render = false }]
+
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = true
+# Whether to include the path of the page/section in the index
+include_path = true
+# Whether to include the rendered content of the page/section in the index
+include_content = true
+# Produce the search index as a JSON file (for use with tinysearch/fuse.js)
+index_format = "fuse_json"
 
 [markdown]
 # turns -- into an en dash and etc.
