@@ -70,42 +70,42 @@ required to attend Bay Area practices.
 This is a schedule of our events this spring. Aside from ARML Local, [Sacramento practices](/sac/) are
 not listed here. Contact {{ email(name="sacramento") }} to learn more about practices held at UC Davis.
 
-* **Info Session: April 16 (Thursday), 6pm-6:30pm**
+* Info Session: April 16 (Thursday), 6pm-6:30pm
     * Location: Online. 
 	* Zoom Registration: <https://us02web.zoom.us/meeting/register/Qz5fxEYVRtyY2H_X2ezsvQ>
-* **ARML Local (Bay Area): April 19 (Sunday), 9am-1pm**
+* ARML Local (Bay Area): April 19 (Sunday), 9am-1pm
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
     * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
     * This session will be held in partnership with
       [AlphaStar](https://alphastar.academy/) and with the financial support of [Jane Street](https://janestreet.com/).
     * If you are already participating in ARML Local at UC Davis or with another organization, please do not attend this session.
-* **ARML Local (Sacramento / Davis): April 19 (Sunday), 12pm-3pm**
+* ARML Local (Sacramento / Davis): April 19 (Sunday), 12pm-3pm
     * Location: UC Davis, Shields Library room 162
     * Google Maps: <https://maps.app.goo.gl/xyWfHHhvpzjJwrmY8>
     * See our [Sacramento / Davis](/sac/) page for more information.
     * If you are already participating in ARML Local in the Bay Area or with another organization, please do not attend this session.
-* Tryout 1: April 26 (Sunday), 4pm-5pm, online
+* **Tryout 1: April 26 (Sunday), 4pm-5pm, online**
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo] accounts at 4pm. Students should
       start no later than 4:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
-* Tryout 2: April 28 (Tuesday), 6pm-7pm, online
+* **Tryout 2: April 28 (Tuesday), 6pm-7pm, online**
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo] accounts at 6pm. Students should
       start no later than 6:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
-* Tryout 3: April 30 (Thursday), 7pm-8pm, online
+* **Tryout 3: April 30 (Thursday), 7pm-8pm, online**
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo] accounts at 7pm. Students should
       start no later than 7:10pm in order to have the full allotted time.
       Unregistered students who want to participate should email
       {{ email() }} ahead of time with a ContestDojo student
       account email address in order to request guest access.
-* Tryout 4: May 2 (Saturday), 11am-noon, online
+* **Tryout 4: May 2 (Saturday), 11am-noon, online**
     * Location: Online. The tryout will be posted on registered students'
       [ContestDojo] accounts at 11am. Students should
       start no later than 11:10am in order to have the full allotted time.
