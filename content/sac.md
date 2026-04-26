@@ -4,7 +4,7 @@ title: "Sacramento / Davis Information"
 
 {{ outdated_banner(season="2026", after="2026-07-01") }}
 
-{{ news_banner(content="The first practice for Sacramento / Davis will be on **Saturday, April 11**.") }}
+{{ news_banner(content="The next practice for Sacramento / Davis will be on **Saturday, May 2**, starting at noon.") }}
 
 ## Joining the Team
 
