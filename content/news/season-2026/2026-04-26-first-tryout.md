@@ -9,7 +9,7 @@ Happy Sunday! A quick update with a few time-sensitive reminders.
 
 ### First Online Tryout -- Today at 4pm
 
-Our first online tryout is **today (Sunday, April 26), from 4pm to 5pm**. The tryout will be posted on registered students' [ContestDojo](https://contestdojo.com/) accounts at 4pm. Please start no later than 4:10pm to ensure you have the full allotted time.
+Our first online tryout is **today (Sunday, April 26), from 4pm to 5pm**. The tryout will be posted on registered students' [ContestDojo](https://contestdojo.com/) accounts at 4pm. Please start no later than 4:10pm to ensure you have the full allotted time. The format of the tryout will be similar to an ARML individual round (5 pairs of problems, 10 minutes per pair).
 
 Please treat the tryout as you would any contest -- it should represent your own work, and you should not use outside resources or calculators.
 
