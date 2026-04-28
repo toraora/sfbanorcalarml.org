@@ -6,20 +6,19 @@ description = "Our organization brings several teams of 15 talented math student
 Welcome to the SFBA / NorCal ARML website!
 Learn more about us at the [About](/about) page.
 
-**Registration for the 2026 season is now open!**
-Information about registration is available on our [Join](/join) page.
-The last day to register is April 27th.
+**We are no longer accepting registrations for the 2026 season.**
+Contact us at {{ email() }} if you need any assistance.
 Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar).
 
 **Important upcoming dates**
 
-- April 26: [Online tryout #1](/practices/#schedule)
-- April 27: **[Registration deadline](/join/)**
 - April 28: [Online tryout #2](/practices/#schedule)
 - April 30: [Shirt design submission deadline](/news/season-2026/shirt-design)
 - April 30: [Online tryout #3](/practices/#schedule)
+- May 1: [Roommate requests due](https://forms.gle/vgcrVDsEBZviJje66)
 - May 2: [Online tryout #4](/practices/#schedule)
 - (Sacramento / Davis only) May 2: [Sacramento / Davis practice](/sac/#practices)
+- May 3: [Bay Area practice](/practices/#schedule)
 
 
 To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR).
