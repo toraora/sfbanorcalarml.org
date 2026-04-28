@@ -17,11 +17,11 @@ Now that our roster is taking shape, we're giving everyone a chance to submit ro
 
 [Submit your roommate preferences here.](https://forms.gle/vgcrVDsEBZviJje66)
 
-We'll do our best to accommodate requests that we receive by the end of the week.
+Roommate requests must be submitted by end of day on Thursday April 30, and we'll do our best to accommodate requests that we receive by that time.
 
 ### Upcoming Tryouts
 
-We have two more online tryouts coming up this week:
+We have two more online tryouts coming up in the next few days:
 
 - **Tryout 2:** Tuesday, April 28, 6pm-7pm
 - **Tryout 3:** Thursday, April 30, 7pm-8pm
