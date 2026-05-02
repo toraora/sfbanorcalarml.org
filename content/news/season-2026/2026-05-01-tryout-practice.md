@@ -1,5 +1,5 @@
 ---
-title: "This Weekend: Last Tryout and Practice"
+title: "This Weekend: Last Tryout and First Bay Area Practice"
 date: 2026-05-01
 ---
 
