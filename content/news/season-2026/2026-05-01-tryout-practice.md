@@ -7,11 +7,11 @@ Dear ARML Team,
 
 We have a busy weekend ahead! Here's what's coming up.
 
-### Last Tryout -- Tomorrow
+### Last Tryout -- Saturday
 
 Our fourth and final online tryout will take place **tomorrow (Saturday, May 2), 11am-noon**. The tryout will be posted on registered students' [ContestDojo] accounts at 11am. Please start no later than 11:10am to ensure you have the full allotted time. If you need guest access, email {{ email() }} ahead of time with the email address associated with your ContestDojo student account. This is the last tryout opportunity before elite teams are announced at Sunday's Bay Area practice!
 
-### Sacramento Practice -- Tomorrow
+### Sacramento Practice -- Saturday
 
 Sacramento area students: as usual, there is a practice **tomorrow (Saturday, May 2), noon-3pm**, at [UC Davis, Shields Library room 162](https://maps.app.goo.gl/xyWfHHhvpzjJwrmY8). See our [Sacramento / Davis page](/sac/) for more information.
 
