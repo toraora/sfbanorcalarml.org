@@ -12,6 +12,7 @@ Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar
 
 **Important upcoming dates**
 
+- May 8 (Thursday) at 6pm: [Teammate request form](https://forms.gle/V4ejpT4hP7PQoVMz5) and [t-shirt poll](https://forms.gle/vKKuauYP2SExtDUn9) due
 - May 9: [Bay Area practice](/practices/#schedule) at **AlphaStar Academy's new Cupertino campus**
 - May 16: [Bay Area practice](/practices/#schedule)
 
