@@ -92,7 +92,7 @@ A number of you have asked about traveling independently with parents to ARML.
 In order to maintain supervision during the trip, we require that any student
 traveling independently to be dropped off and picked up at UNR at designated
 times. We anticipate these time intervals to be approximately a 1:30pm dropoff
-on Friday and a 3pm pickup on Saturday. If you are intending to travel
+on Friday and a 3:30pm pickup on Saturday. If you are intending to travel
 independently, please let us know so we can record this information prior to
 making bus assignments.
 
