@@ -67,6 +67,8 @@ Our second Bay Area practice will take place on **Saturday, noon to 5pm** at
 **[AlphaStar Academy's new Cupertino campus](https://maps.app.goo.gl/AwVMNfUNdWpNbXFr5)**
 (1072 S De Anza Blvd # B205, San Jose, CA 95129).
 The details are on the [practice website](/practices/#schedule).
+Like this past weekend, we'll spend the last 45 minutes
+of practice doing something fun to help everyone meet each other.
 
 **Please note:** This is AlphaStar's new location, not the old office that some
 students may have visited before. Please double-check the address before heading
@@ -75,6 +77,8 @@ out.
 We encourage everyone to carpool to practice with others from your city or area.
 If you're unable to attend, please fill out our [Practice Absence
 Form](https://forms.gle/5pD21AETNdfwDpFm6) and provide a (good) reason.
+Examples of good reasons include health issues and conflicting events; we
+discourage using studying for exams as a reason to miss practice.
 
 ### Transportation
 
