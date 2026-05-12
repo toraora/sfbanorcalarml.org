@@ -57,6 +57,28 @@ through A6 are entirely arbitrary and do not indicate anything about team
 strength. Additional adjustments will be required in subsequent weeks,
 especially in rebalancing the sizes of the teams.
 
+### Permission Forms
+
+Permission forms were recently sent via SignWell to all parents using the parent
+email address that was submitted in the Information Sheet. Please complete the
+paperwork once you receive it. No student may attend ARML without a completed
+permission form. If you have not received the form, please check your spam
+folder, and email us at {{ email() }} if you still can't find it.
+
+### Alternate Transportation
+
+A number of you have asked about traveling independently with parents to ARML.
+In order to maintain supervision during the trip, we require that any student
+traveling independently be dropped off and picked up at UNR at designated times.
+We anticipate these to be approximately:
+- Friday May 29: Drop-off at ~1:30pm.
+- Saturday May 30: Pickup at ~3:30pm.
+
+A full itinerary will be shared in the coming days. More information about
+transportation can also be found on our [Logistics](/logistics/) page. If you are
+intending to travel independently, please let us know so we can record this
+information prior to making bus assignments.
+
 ### Practice Materials and Homework
 
 Practice materials from our second Bay Area practice have now been posted. Note
