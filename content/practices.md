@@ -115,11 +115,11 @@ not listed here. Contact {{ email(name="sacramento") }} to learn more about prac
 * Bay Area Practice 1: May 3 (Sunday), noon-5pm
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
     * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
-* **Bay Area Practice 2: May 9 (Saturday), noon-5pm**
+* Bay Area Practice 2: May 9 (Saturday), noon-5pm
     * Location: AlphaStar Academy - Cupertino Campus, 1072 S De Anza Blvd # B205, San Jose, CA 95129
     * Google Maps: <https://maps.app.goo.gl/AwVMNfUNdWpNbXFr5>
-    * **Note:** This is AlphaStar's new location, not the old office that some students may have visited before.
-* Bay Area Practice 3: May 16 (Saturday), noon-5pm
+    * Note: This is AlphaStar's new location, not the old office that some students may have visited before.
+* **Bay Area Practice 3: May 16 (Saturday), noon-5pm**
     * Location: Bliss and Wisdom Foundation of Northern California, 1338 Ridder Park Dr, San Jose, CA 95131
     * Google Maps: <https://maps.app.goo.gl/n1exw4G9n4uY2VgVA>
 * ARML: May 29 -- May 30 (Friday -- Saturday)

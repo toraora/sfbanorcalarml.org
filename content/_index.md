@@ -12,9 +12,9 @@ Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar
 
 **Important upcoming dates**
 
-- May 7 (Thursday) at 6pm: [Teammate request form](https://forms.gle/V4ejpT4hP7PQoVMz5) and [t-shirt poll](https://forms.gle/vKKuauYP2SExtDUn9) due
-- May 9: [Bay Area practice](/practices/#schedule) at **AlphaStar Academy's new Cupertino campus**
-- May 16: [Bay Area practice](/practices/#schedule)
+- May 13 (Wednesday): [Extra shirt orders](/news/season-2026/2026-extra-shirts/) due by end of day
+- May 16: [Final Bay Area practice](/practices/#schedule) (with FARML!)
+- May 29–30: ARML at University of Nevada, Reno
 
 
 To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR).
