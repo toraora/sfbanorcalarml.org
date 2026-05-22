@@ -54,14 +54,26 @@ please indicate that on the form.
 
 [**Student Cell Phone Number Form**](https://forms.gle/VVmDnvk6f7aAVtWVA)
 
-### Optional Homework
+### Optional Homework and Practice Materials
 
 We have posted another individual round on
 [ContestDojo](https://contestdojo.com/) as optional practice material. If you'd
-like to partake, you may complete that individual round at any time. Solutions
-can be found in the same place as materials from practice:
+like to partake, you may complete that individual round at any time. We have
+also uploaded materials from all Bay Area practices, including FARML. Solutions
+and materials can be found in the same place as materials from practice:
 
 [**Bay Area Practice Materials**](https://docs.google.com/document/d/e/2PACX-1vStdf3lWm0h7-_JBg5c-mLz_PbWk3EJXKVihzZf_m5Rw7to5BpgZPKVAPkyyRNavqVHJaQBhhfTYFE8/pub)
+
+### Permission Forms
+
+Permission forms were sent out last week to parents via email. Please complete
+the paperwork as soon as possible. No student may attend ARML without a
+completed permission form. Email us at {{ email() }} if you have not received the form.
+
+### Discord
+
+Students can join each team's Discord channel by reacting in #roles (a server
+invite is available by clicking on the Discord icon on the [team website](/)).
 
 As always, if you have any questions, please let us know!
 
