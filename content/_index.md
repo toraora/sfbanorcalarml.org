@@ -12,8 +12,7 @@ Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar
 
 **Important upcoming dates**
 
-- May 13 (Wednesday): [Extra shirt orders](/news/season-2026/2026-extra-shirts/) due by end of day
-- May 16: [Final Bay Area practice](/practices/#schedule) (with FARML!)
+- May 23: [Final Sacramento / Davis practice](/sac/#practices)
 - May 29–30: ARML at University of Nevada, Reno
 
 
