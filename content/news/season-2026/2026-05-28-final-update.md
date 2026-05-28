@@ -11,9 +11,9 @@ chaperone upon arrival in Reno.
 [**Updated 2026 ARML Itinerary**](https://drive.google.com/file/d/19OkF62lwDoiH6WpJu8WA3fWpzUjdJMTu/view?usp=drive_link)
 
 At the end of this email is an updated list of bus group assignments reflecting
-all of the changes that I've recorded over the past day. Please verify your
-information, and continue to let me know if you need to make changes. For
-example, if you are traveling independently and have not yet emailed me, I need
+all of the changes that we've recorded over the past day. Please verify your
+information, and continue to let us know if you need to make changes. For
+example, if you are traveling independently and have not yet emailed us, we need
 to know ASAP. If another bus pickup location is more convenient for you, we
 *might* be able to swap your bus group, but we need to know *before* you show
 up at the bus.
