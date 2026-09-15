@@ -6,15 +6,9 @@ description = "Our organization brings several teams of 15 talented math student
 Welcome to the SFBA / NorCal ARML website!
 Learn more about us at the [About](/about) page.
 
-**We are no longer accepting registrations for the 2026 season.**
-Contact us at {{ email() }} if you need any assistance.
-Our full season schedule is up on our [Calendar](/news/season-2026/2026-calendar).
+The 2026 ARML Season has ended -- check out our [Season Summary](/news/season-2026/season-summary/).
+We hope to see all of you return next year!
 
-**Important upcoming dates**
-
-- May 23: [Final Sacramento / Davis practice](/sac/#practices)
-- May 29–30: ARML at University of Nevada, Reno
-
-
-To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR).
+To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR)
+and join our mailing list [here](/interest-form).
 If you have any questions, please contact us at {{ email() }}.
