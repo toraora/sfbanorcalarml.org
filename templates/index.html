@@ -71,7 +71,7 @@
   -->
 
   {% set news_section = get_section(path="news/season-2026/_index.md") %}
-  {% set news_posts = news_section.pages | slice(end=2) %}
+  {% set news_posts = news_section.pages | slice(end=1) %}
   {% for news_post in news_posts %}
   {{ self::post_notification(
     title=news_post.title,
