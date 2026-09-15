@@ -2,6 +2,8 @@
 title = "ARML Local"
 +++
 
+{{ outdated_banner(season="2026", after="2026-07-01") }}
+
 Welcome! Please fill out the form below. While you're waiting, you can also
 review the following materials:
 
