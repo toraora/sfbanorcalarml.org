@@ -2,6 +2,8 @@
 title: "Team Policies"
 ---
 
+{{ outdated_banner(season="2026", after="2026-07-01") }}
+
 ### SFBA / NorCal ARML Code of Conduct
 
 #### 1. Behavior & Shared Values
