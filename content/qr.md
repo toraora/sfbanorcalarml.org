@@ -3,6 +3,6 @@ title = "ARML QR Code"
 template = "redirect.html"
 
 [extra]
-redirect_url = "/"
+redirect_url = "/interest-form"
 +++
 
