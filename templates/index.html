@@ -70,8 +70,9 @@
   ) }}
   -->
 
-  {% set news_section = get_section(path="news/season-2027/_index.md") %}
-  {% set news_posts = news_section.pages | slice(end=1) %}
+  {% set news_section_2027 = get_section(path="news/season-2027/_index.md") %}
+  {% set news_section_2026 = get_section(path="news/season-2026/_index.md") %}
+  {% set news_posts = news_section_2027.pages | concat(with=news_section_2026.pages) | slice(end=2) %}
   {% for news_post in news_posts %}
   {{ self::post_notification(
     title=news_post.title,
