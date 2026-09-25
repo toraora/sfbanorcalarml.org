@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="flex flex-col gap-6 items-stretch max-w-md w-full mx-auto text-content-primary dark:text-content-primary-dark">
+  {% if page.content %}
+  <div class="prose dark:prose-invert text-center">{{ page.content | safe }}</div>
+  {% endif %}
+
+  <div class="flex flex-col gap-4">
+    {% for link in page.extra.links %}
+    <a href="{{ link.href | safe }}"
+      class="block text-center text-lg font-medium py-4 px-6 rounded-xl border border-content-tertiary dark:border-content-tertiary-dark bg-background-secondary dark:bg-background-secondary-dark hover:bg-background-tertiary dark:hover:bg-background-tertiary-dark hover:-translate-y-1 transition-all">
+      {{ link.label }}
+      {% if link.note %}
+      <span class="block text-sm font-normal text-content-secondary dark:text-content-secondary-dark">{{ link.note }}</span>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

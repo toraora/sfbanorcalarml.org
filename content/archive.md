@@ -2,6 +2,8 @@
 title: "News Archive"
 ---
 
+[Season 2027 News](/news/season-2027)
+
 [Season 2026 News](/news/season-2026)
 
 [Season 2025 News](/news/season-2025)
