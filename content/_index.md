@@ -6,8 +6,12 @@ description = "Our organization brings several teams of 15 talented math student
 Welcome to the SFBA / NorCal ARML website!
 Learn more about us at the [About](/about) page.
 
-The 2026 ARML Season has ended -- check out our [Season Summary](/news/season-2026/season-summary/).
-We hope to see all of you return next year!
+New this year: [SFBA Passport](https://passport.sfbanorcalarml.org).
+Participate in partner events around the Bay Area to receive $6 off your ARML registration fee per participation, up to $30.
+Read more in our [welcome post](/news/season-2027/welcome-2026-27/).
+
+ARML 2027 will be held on June 4–5 at the University of Nevada, Reno.
+Registration, tryouts, and ARML Local details will be posted in the spring.
 
 To stay tuned for future updates, join our Discord server [here](https://discord.gg/XsqPrShvyR)
 and join our mailing list [here](/interest-form).
