@@ -86,8 +86,11 @@
 
 {# Rest of content (rendered from markdown) #}
 
-<div class="prose dark:prose-invert">
-  {{ section.content | safe }}
+<div class="flex flex-col-reverse md:grid md:grid-cols-3 gap-6 md:gap-8 items-center">
+  <div class="prose dark:prose-invert md:col-span-2">
+    {{ section.content | safe }}
+  </div>
+  <img src="/assets/logo.svg" alt="SFBA / NorCal ARML logo" width="600" height="600" class="w-40 md:w-full max-w-[14rem] mx-auto" />
 </div>
 
 {# Recent news section #}
