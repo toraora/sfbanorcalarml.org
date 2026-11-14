@@ -3,9 +3,9 @@ title = "SFBA / NorCal ARML"
 template = "links.html"
 
 [[extra.links]]
-label = "Get your stamp for Cowconuts Math Competition on SFBA Passport"
-note = "Sep 27, 2026 · $6 off ARML registration"
-href = "https://passport.sfbanorcalarml.org/events/c363f8ad-bb53-47f9-a565-e9bcfa50272c/check-in"
+label = "Get your stamp for Berkeley Math Tournament (BMT) on SFBA Passport"
+note = "Nov 14, 2026 · $6 off ARML registration"
+href = "https://passport.sfbanorcalarml.org/events/1f7dc351-ac36-49aa-a58b-3b09f08489a0/check-in"
 
 [[extra.links]]
 label = "Join our mailing list"
